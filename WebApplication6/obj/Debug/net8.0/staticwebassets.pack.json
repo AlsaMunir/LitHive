@@ -1,0 +1,1001 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\WebApplication6.bundle.scp.css",
+      "PackagePath": "staticwebassets\\WebApplication6.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\UploadedFiles\\Bookmarks\\Floral.jpg",
+      "PackagePath": "staticwebassets\\UploadedFiles\\Bookmarks\\Floral.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\UploadedFiles\\Bookmarks\\boho.jpg",
+      "PackagePath": "staticwebassets\\UploadedFiles\\Bookmarks\\boho.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\UploadedFiles\\Bookmarks\\bohoglass.jpg",
+      "PackagePath": "staticwebassets\\UploadedFiles\\Bookmarks\\bohoglass.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\UploadedFiles\\Bookmarks\\diy.jpg",
+      "PackagePath": "staticwebassets\\UploadedFiles\\Bookmarks\\diy.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\UploadedFiles\\Bookmarks\\diybeachy.jpg",
+      "PackagePath": "staticwebassets\\UploadedFiles\\Bookmarks\\diybeachy.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\UploadedFiles\\Bookmarks\\floralpainted.jpg",
+      "PackagePath": "staticwebassets\\UploadedFiles\\Bookmarks\\floralpainted.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\UploadedFiles\\Bookmarks\\guitar.jpg",
+      "PackagePath": "staticwebassets\\UploadedFiles\\Bookmarks\\guitar.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\UploadedFiles\\Bookmarks\\handdrawn.jpg",
+      "PackagePath": "staticwebassets\\UploadedFiles\\Bookmarks\\handdrawn.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\UploadedFiles\\Bookmarks\\mark1.jpg",
+      "PackagePath": "staticwebassets\\UploadedFiles\\Bookmarks\\mark1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\UploadedFiles\\Bookmarks\\mark2.jpg",
+      "PackagePath": "staticwebassets\\UploadedFiles\\Bookmarks\\mark2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\UploadedFiles\\Bookmarks\\mark3.jpg",
+      "PackagePath": "staticwebassets\\UploadedFiles\\Bookmarks\\mark3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\UploadedFiles\\Bookmarks\\mark4.jpg",
+      "PackagePath": "staticwebassets\\UploadedFiles\\Bookmarks\\mark4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\UploadedFiles\\Bookmarks\\mark5.jpg",
+      "PackagePath": "staticwebassets\\UploadedFiles\\Bookmarks\\mark5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\UploadedFiles\\Bookmarks\\mark6.jpg",
+      "PackagePath": "staticwebassets\\UploadedFiles\\Bookmarks\\mark6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\UploadedFiles\\Bookmarks\\s4.jpg",
+      "PackagePath": "staticwebassets\\UploadedFiles\\Bookmarks\\s4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\UploadedFiles\\Books\\12rules.jpg",
+      "PackagePath": "staticwebassets\\UploadedFiles\\Books\\12rules.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\UploadedFiles\\Books\\animals.jpg",
+      "PackagePath": "staticwebassets\\UploadedFiles\\Books\\animals.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\UploadedFiles\\Books\\barbara.jpg",
+      "PackagePath": "staticwebassets\\UploadedFiles\\Books\\barbara.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\UploadedFiles\\Books\\breaking.jpg",
+      "PackagePath": "staticwebassets\\UploadedFiles\\Books\\breaking.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\UploadedFiles\\Books\\comfortcrisis.jpg",
+      "PackagePath": "staticwebassets\\UploadedFiles\\Books\\comfortcrisis.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\UploadedFiles\\Books\\ends.jpg",
+      "PackagePath": "staticwebassets\\UploadedFiles\\Books\\ends.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\UploadedFiles\\Books\\everyone.jpg",
+      "PackagePath": "staticwebassets\\UploadedFiles\\Books\\everyone.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\UploadedFiles\\Books\\everysummer.jpg",
+      "PackagePath": "staticwebassets\\UploadedFiles\\Books\\everysummer.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\UploadedFiles\\Books\\everything.jpg",
+      "PackagePath": "staticwebassets\\UploadedFiles\\Books\\everything.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\UploadedFiles\\Books\\faultinourstars.jpg",
+      "PackagePath": "staticwebassets\\UploadedFiles\\Books\\faultinourstars.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\UploadedFiles\\Books\\fivefeetapart.jpg",
+      "PackagePath": "staticwebassets\\UploadedFiles\\Books\\fivefeetapart.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\UploadedFiles\\Books\\frol.jpg",
+      "PackagePath": "staticwebassets\\UploadedFiles\\Books\\frol.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\UploadedFiles\\Books\\fromashes.jpg",
+      "PackagePath": "staticwebassets\\UploadedFiles\\Books\\fromashes.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\UploadedFiles\\Books\\glass.jpg",
+      "PackagePath": "staticwebassets\\UploadedFiles\\Books\\glass.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\UploadedFiles\\Books\\happierHour.jpg",
+      "PackagePath": "staticwebassets\\UploadedFiles\\Books\\happierHour.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\UploadedFiles\\Books\\harrypotter.jpg",
+      "PackagePath": "staticwebassets\\UploadedFiles\\Books\\harrypotter.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\UploadedFiles\\Books\\hear.jpg",
+      "PackagePath": "staticwebassets\\UploadedFiles\\Books\\hear.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\UploadedFiles\\Books\\laws.jpg",
+      "PackagePath": "staticwebassets\\UploadedFiles\\Books\\laws.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\UploadedFiles\\Books\\maid.jpg",
+      "PackagePath": "staticwebassets\\UploadedFiles\\Books\\maid.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\UploadedFiles\\Books\\mapmatics.jpg",
+      "PackagePath": "staticwebassets\\UploadedFiles\\Books\\mapmatics.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\UploadedFiles\\Books\\masterofchange.jpg",
+      "PackagePath": "staticwebassets\\UploadedFiles\\Books\\masterofchange.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\UploadedFiles\\Books\\maze.jpg",
+      "PackagePath": "staticwebassets\\UploadedFiles\\Books\\maze.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\UploadedFiles\\Books\\mebeforeyou.jpg",
+      "PackagePath": "staticwebassets\\UploadedFiles\\Books\\mebeforeyou.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\UploadedFiles\\Books\\myth.jpg",
+      "PackagePath": "staticwebassets\\UploadedFiles\\Books\\myth.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\UploadedFiles\\Books\\nostalgia.jpg",
+      "PackagePath": "staticwebassets\\UploadedFiles\\Books\\nostalgia.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\UploadedFiles\\Books\\people.jpg",
+      "PackagePath": "staticwebassets\\UploadedFiles\\Books\\people.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\UploadedFiles\\Books\\power.jpg",
+      "PackagePath": "staticwebassets\\UploadedFiles\\Books\\power.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\UploadedFiles\\Books\\pride.jpg",
+      "PackagePath": "staticwebassets\\UploadedFiles\\Books\\pride.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\UploadedFiles\\Books\\reminders.jpg",
+      "PackagePath": "staticwebassets\\UploadedFiles\\Books\\reminders.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\UploadedFiles\\Books\\revisionarires.png",
+      "PackagePath": "staticwebassets\\UploadedFiles\\Books\\revisionarires.png"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\UploadedFiles\\Books\\rich.jpg",
+      "PackagePath": "staticwebassets\\UploadedFiles\\Books\\rich.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\UploadedFiles\\Books\\rising strong.jpg",
+      "PackagePath": "staticwebassets\\UploadedFiles\\Books\\rising strong.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\UploadedFiles\\Books\\s7.jpg",
+      "PackagePath": "staticwebassets\\UploadedFiles\\Books\\s7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\UploadedFiles\\Books\\sapiens.jpg",
+      "PackagePath": "staticwebassets\\UploadedFiles\\Books\\sapiens.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\UploadedFiles\\Books\\saywhatyoumean.png",
+      "PackagePath": "staticwebassets\\UploadedFiles\\Books\\saywhatyoumean.png"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\UploadedFiles\\Books\\scarcitybrain.jpg",
+      "PackagePath": "staticwebassets\\UploadedFiles\\Books\\scarcitybrain.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\UploadedFiles\\Books\\scatteredBrains.jpg",
+      "PackagePath": "staticwebassets\\UploadedFiles\\Books\\scatteredBrains.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\UploadedFiles\\Books\\silent.jpg",
+      "PackagePath": "staticwebassets\\UploadedFiles\\Books\\silent.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\UploadedFiles\\Books\\sociopath.jpg",
+      "PackagePath": "staticwebassets\\UploadedFiles\\Books\\sociopath.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\UploadedFiles\\Books\\starts.jpg",
+      "PackagePath": "staticwebassets\\UploadedFiles\\Books\\starts.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\UploadedFiles\\Books\\subtle.jpg",
+      "PackagePath": "staticwebassets\\UploadedFiles\\Books\\subtle.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\UploadedFiles\\Books\\tss.jpg",
+      "PackagePath": "staticwebassets\\UploadedFiles\\Books\\tss.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\UploadedFiles\\Books\\verity.jpg",
+      "PackagePath": "staticwebassets\\UploadedFiles\\Books\\verity.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\UploadedFiles\\Books\\weight.jpg",
+      "PackagePath": "staticwebassets\\UploadedFiles\\Books\\weight.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\UploadedFiles\\Booksleeve\\s4.jpg",
+      "PackagePath": "staticwebassets\\UploadedFiles\\Booksleeve\\s4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\UploadedFiles\\Booksleeve\\s5.jpg",
+      "PackagePath": "staticwebassets\\UploadedFiles\\Booksleeve\\s5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\UploadedFiles\\Booksleeve\\s7.jpg",
+      "PackagePath": "staticwebassets\\UploadedFiles\\Booksleeve\\s7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\UploadedFiles\\Booksleeve\\sleeve1.jpg",
+      "PackagePath": "staticwebassets\\UploadedFiles\\Booksleeve\\sleeve1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\UploadedFiles\\Booksleeve\\sleeve2.jpg",
+      "PackagePath": "staticwebassets\\UploadedFiles\\Booksleeve\\sleeve2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\UploadedFiles\\Booksleeve\\sleeve3.jpg",
+      "PackagePath": "staticwebassets\\UploadedFiles\\Booksleeve\\sleeve3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\css1\\LoginStyle.css",
+      "PackagePath": "staticwebassets\\css1\\LoginStyle.css"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\css1\\site.css",
+      "PackagePath": "staticwebassets\\css1\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\images\\Lit.png",
+      "PackagePath": "staticwebassets\\images\\Lit.png"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\images\\Lithive.png",
+      "PackagePath": "staticwebassets\\images\\Lithive.png"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\images\\Lithive_transformed-removebg-preview.png",
+      "PackagePath": "staticwebassets\\images\\Lithive_transformed-removebg-preview.png"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\images\\Screenshot 2024-06-05 191945.png",
+      "PackagePath": "staticwebassets\\images\\Screenshot 2024-06-05 191945.png"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\images\\adminbg.jpg",
+      "PackagePath": "staticwebassets\\images\\adminbg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\images\\allthelonelypeople.jpg",
+      "PackagePath": "staticwebassets\\images\\allthelonelypeople.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\images\\atomic habits.jpg",
+      "PackagePath": "staticwebassets\\images\\atomic habits.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\images\\bg.jpg",
+      "PackagePath": "staticwebassets\\images\\bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\images\\cover2.jpg",
+      "PackagePath": "staticwebassets\\images\\cover2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\images\\faultinourstars.jpg",
+      "PackagePath": "staticwebassets\\images\\faultinourstars.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\images\\fic.jpg",
+      "PackagePath": "staticwebassets\\images\\fic.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\images\\fiction\\ends.jpg",
+      "PackagePath": "staticwebassets\\images\\fiction\\ends.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\images\\fiction\\everysummer.jpg",
+      "PackagePath": "staticwebassets\\images\\fiction\\everysummer.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\images\\fiction\\frol.jpg",
+      "PackagePath": "staticwebassets\\images\\fiction\\frol.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\images\\fiction\\maid.jpg",
+      "PackagePath": "staticwebassets\\images\\fiction\\maid.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\images\\fiction\\maze.jpg",
+      "PackagePath": "staticwebassets\\images\\fiction\\maze.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\images\\fiction\\mebeforeyou.jpg",
+      "PackagePath": "staticwebassets\\images\\fiction\\mebeforeyou.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\images\\fiction\\pride.jpg",
+      "PackagePath": "staticwebassets\\images\\fiction\\pride.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\images\\fiction\\reminders.jpg",
+      "PackagePath": "staticwebassets\\images\\fiction\\reminders.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\images\\fiction\\revisionarires.png",
+      "PackagePath": "staticwebassets\\images\\fiction\\revisionarires.png"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\images\\fiction\\silent.jpg",
+      "PackagePath": "staticwebassets\\images\\fiction\\silent.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\images\\fiction\\starts.jpg",
+      "PackagePath": "staticwebassets\\images\\fiction\\starts.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\images\\fiction\\verity.jpg",
+      "PackagePath": "staticwebassets\\images\\fiction\\verity.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\images\\fivefeetapart.jpg",
+      "PackagePath": "staticwebassets\\images\\fivefeetapart.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\images\\harrypotter.jpg",
+      "PackagePath": "staticwebassets\\images\\harrypotter.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\images\\jprofile.png",
+      "PackagePath": "staticwebassets\\images\\jprofile.png"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\images\\kiterunner.jpg",
+      "PackagePath": "staticwebassets\\images\\kiterunner.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\images\\kprofile.png",
+      "PackagePath": "staticwebassets\\images\\kprofile.png"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\images\\lithivebg.jpg",
+      "PackagePath": "staticwebassets\\images\\lithivebg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\images\\mark1.jpg",
+      "PackagePath": "staticwebassets\\images\\mark1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\images\\mark2.jpg",
+      "PackagePath": "staticwebassets\\images\\mark2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\images\\mark2.webp",
+      "PackagePath": "staticwebassets\\images\\mark2.webp"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\images\\mark3.jpg",
+      "PackagePath": "staticwebassets\\images\\mark3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\images\\mark4.jpg",
+      "PackagePath": "staticwebassets\\images\\mark4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\images\\mark5.jpg",
+      "PackagePath": "staticwebassets\\images\\mark5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\images\\mark6.jpg",
+      "PackagePath": "staticwebassets\\images\\mark6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\images\\mprofile.jpg",
+      "PackagePath": "staticwebassets\\images\\mprofile.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\images\\new.png",
+      "PackagePath": "staticwebassets\\images\\new.png"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\images\\new1.png",
+      "PackagePath": "staticwebassets\\images\\new1.png"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\images\\newlit.png",
+      "PackagePath": "staticwebassets\\images\\newlit.png"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\images\\nonfiction\\barbara.jpg",
+      "PackagePath": "staticwebassets\\images\\nonfiction\\barbara.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\images\\nonfiction\\breaking.jpg",
+      "PackagePath": "staticwebassets\\images\\nonfiction\\breaking.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\images\\nonfiction\\fromashes.jpg",
+      "PackagePath": "staticwebassets\\images\\nonfiction\\fromashes.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\images\\nonfiction\\laws.jpg",
+      "PackagePath": "staticwebassets\\images\\nonfiction\\laws.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\images\\nonfiction\\myth.jpg",
+      "PackagePath": "staticwebassets\\images\\nonfiction\\myth.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\images\\nonfiction\\power.jpg",
+      "PackagePath": "staticwebassets\\images\\nonfiction\\power.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\images\\nonfiction\\rising strong.jpg",
+      "PackagePath": "staticwebassets\\images\\nonfiction\\rising strong.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\images\\nonfiction\\sapiens.jpg",
+      "PackagePath": "staticwebassets\\images\\nonfiction\\sapiens.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\images\\s4.jpg",
+      "PackagePath": "staticwebassets\\images\\s4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\images\\s5.jpg",
+      "PackagePath": "staticwebassets\\images\\s5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\images\\s7.jpg",
+      "PackagePath": "staticwebassets\\images\\s7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\images\\selfhelp\\12rules.jpg",
+      "PackagePath": "staticwebassets\\images\\selfhelp\\12rules.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\images\\selfhelp\\comfortcrisis.jpg",
+      "PackagePath": "staticwebassets\\images\\selfhelp\\comfortcrisis.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\images\\selfhelp\\everything.jpg",
+      "PackagePath": "staticwebassets\\images\\selfhelp\\everything.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\images\\selfhelp\\happierHour.jpg",
+      "PackagePath": "staticwebassets\\images\\selfhelp\\happierHour.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\images\\selfhelp\\masterofchange.jpg",
+      "PackagePath": "staticwebassets\\images\\selfhelp\\masterofchange.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\images\\selfhelp\\rich.jpg",
+      "PackagePath": "staticwebassets\\images\\selfhelp\\rich.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\images\\selfhelp\\saywhatyoumean.png",
+      "PackagePath": "staticwebassets\\images\\selfhelp\\saywhatyoumean.png"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\images\\selfhelp\\scarcitybrain.jpg",
+      "PackagePath": "staticwebassets\\images\\selfhelp\\scarcitybrain.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\images\\selfhelp\\scatteredBrains.jpg",
+      "PackagePath": "staticwebassets\\images\\selfhelp\\scatteredBrains.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\images\\selfhelp\\subtle.jpg",
+      "PackagePath": "staticwebassets\\images\\selfhelp\\subtle.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\images\\sleeve1.jpg",
+      "PackagePath": "staticwebassets\\images\\sleeve1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\images\\sleeve2.jpg",
+      "PackagePath": "staticwebassets\\images\\sleeve2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\images\\sleeve3.jpg",
+      "PackagePath": "staticwebassets\\images\\sleeve3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\images\\tss.jpg",
+      "PackagePath": "staticwebassets\\images\\tss.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\js\\ClientNotification.js",
+      "PackagePath": "staticwebassets\\js\\ClientNotification.js"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\lib\\signalr\\dist\\browser\\signalr.js",
+      "PackagePath": "staticwebassets\\lib\\signalr\\dist\\browser\\signalr.js"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\lib\\signalr\\dist\\browser\\signalr.min.js",
+      "PackagePath": "staticwebassets\\lib\\signalr\\dist\\browser\\signalr.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\style\\style.css",
+      "PackagePath": "staticwebassets\\style\\style.css"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.WebApplication6.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.WebApplication6.props",
+      "PackagePath": "build\\WebApplication6.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.WebApplication6.props",
+      "PackagePath": "buildMultiTargeting\\WebApplication6.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.WebApplication6.props",
+      "PackagePath": "buildTransitive\\WebApplication6.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

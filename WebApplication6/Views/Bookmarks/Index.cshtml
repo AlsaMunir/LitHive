@@ -1,0 +1,34 @@
+﻿@model IEnumerable<Domain.Models.Bookmarks>
+@{
+    Layout = "/Views/Shared/_Layout.cshtml";
+}
+
+<div style="margin:200px;font-family: Arapey, serif;">
+    <h1 class="text-center mb-4">We have these products</h1>
+    <table class="table table-striped border-2 " style="border:2px solid pink;">
+        <thead>
+            <tr>
+                <th scope="col">Id</th>
+                <th scope="col">Book mark</th>
+                <th scope="col">Price</th>
+                <th scope="col">Quantity</th>
+            </tr>
+        </thead>
+
+        <tbody>
+            @foreach (var i in Model)
+            {
+                <tr>
+                    <th scope="row">@i.Id</th>
+                    <td>@i.markname</td>
+                    <td>@i.price</td>
+                    <td>@i.quantity</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+
+@section Mycss1 {
+    <link href="~/css1/LoginStyle.css" rel="stylesheet" />
+}

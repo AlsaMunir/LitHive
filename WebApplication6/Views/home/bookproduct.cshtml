@@ -1,0 +1,41 @@
+﻿@model WebApplication6.Models.ViewModels.bookproduct;
+
+@{
+
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<br />
+<br/>
+<div class="mt-5" style="background-color :pink;  border :2px solid pink;" >
+    <h3 style="text-align: center;text-decoration: solid;text-decoration: underline; font-family: Arapey, serif; text-wrap: wrap; color: black;"><i>View model</i></h3>
+</div>
+<br>
+<div>
+    <div class="container">
+        <div class="row justify-content-evenly gy-3" style=" font-family: Arapey, serif;">
+
+            <div class="card text-center col-md-4 col-sm-6 col-12 col-lg-3 " style="width: 18rem;">
+
+                <img src="~/images/kiterunner.jpg" class="card-img-top mt-1" alt="Kite runner">
+                <div class="card-body">
+                    <h5 class="card-title"> @Model.b.Bookname</h5>
+                    <p class="card-text">Price: @Model.b.Price.ToString("c")</p>
+                    <p class="card-text">Desc:  @Model.b.Description</p>
+                    <p class="card-text"><strong>Quantity:</strong> @Model.b.Quantity</p>
+                    <a class="icon-link btn" asp-controller="home" asp-action="cart" class="btn" style="background-color: rgba(248, 154, 170, 0.733);">Add to cart</a>
+                </div>
+            </div>
+
+            <div class="card text-center col-md-4 col-sm-6 col-12 " style="width: 18rem;">
+                <img src="~/images/mark1.jpg" class="card-img-top mt-1" alt="five feet apart">
+                <div class="card-body">
+                    <h5 class="card-title">Mark Name:@Model.bms.markname</h5>
+                    <p class="card-text"><strong>Price:</strong> @Model.bms.price.ToString("c")</p>
+                    <p class="card-text"><strong>Quantity:</strong> @Model.bms.quantity</p>
+                    <a class="icon-link btn addToCart" asp-controller="home" asp-action="cart" class="btn" style="background-color: rgba(248, 154, 170, 0.733);">Add to cart</a>
+                </div>
+
+            </div>
+        </div>
+    </div>
+</div>

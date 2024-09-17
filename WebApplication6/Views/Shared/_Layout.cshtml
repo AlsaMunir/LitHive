@@ -1,0 +1,270 @@
+﻿ @using Microsoft.AspNetCore.Http
+ @using System.Security.Claims
+
+@{
+    var userEmail = User.FindFirstValue(ClaimTypes.Email);
+    var isAdmin = userEmail == "alsamunir@gmail.com";
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - BookShopProject</title>
+    <link rel="stylesheet" href="~/css/bootstrap.min.css">
+    @await RenderSectionAsync("Mycss1", required: false)
+    <link href="~/css1/LoginStyle.css" rel="stylesheet" />
+    <script src="~/js/clientnotification.js"></script>
+    <link href="~/style/style.css" rel="stylesheet" />
+    <script src="~/lib/signalr/dist/browser/signalr.js"></script>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/js/clientnotification.js"></script>
+    <script src="~/lib/signalr/dist/browser/signalr.js"></script>
+
+
+    <script>
+        $(document).ready(function () {
+            $('#clickB').click(function () {
+                var query = $('#txt').val();
+                console.log(query);
+                $.ajax({
+                    url: '/home/SearchJ',
+                    method: 'POST',
+                    data: { query: query },
+                    success: function (response) {
+
+                        if (response.success) {
+                            var resultsHtml = '';
+                            response.data.forEach(function (item) {
+
+                                // Check the type of item (book or bookmark)
+                                if (item.categoryId === 1 || item.categoryId === 2 || item.categoryId === 3) {
+                                    var serverSidePath = '@Url.Content("~/UploadedFiles/Books/")';
+                                    var imageUrl = serverSidePath + item.imageUrl.replace('~/UploadedFiles/Books/', '');
+
+                                    // HTML for book
+                                    resultsHtml += '<div class="wrapper" style="margin-top:8%;margin-bottom:5%;">';
+                                    resultsHtml += '<div class="product-img">';
+                                    resultsHtml += '<img src="' + imageUrl + '" class="card-img-top mt-1" alt="Image">';
+                                    resultsHtml += '</div>';
+                                    resultsHtml += '<div class="product-info">';
+                                    resultsHtml += '<div class="product-text">';
+                                    resultsHtml += '<h1>' + item.bookname + '</h1>';
+                                    resultsHtml += '<h2>' + item.categoryId + '</h2>';
+                                    resultsHtml += '<p>Explore the captivating world of books on our website, where literary treasures await. From timeless classics to contemporary bestsellers, dive into a diverse selection spanning genres, authors, and interests. Immerse yourself in stories that inspire, educate, and entertain, curated to ignite your passion for reading.</p>';
+                                    resultsHtml += '</div>';
+                                    resultsHtml += '<div class="product-price-btn" style="text-align:center; margin-left:80%;">';
+                                    resultsHtml += '<p style="text-align:center;">' + item.price + '</p>';
+                                    resultsHtml += '</div>';
+                                    resultsHtml += '</div>';
+                                    resultsHtml += '</div>';
+                                } else if (item.categoryId === 4) {
+                                    var serverSidePath = '@Url.Content("~/UploadedFiles/Bookmarks/")';
+                                    var imageUrl = serverSidePath + item.imageUrl.replace('~/UploadedFiles/Bookmarks/', '');
+
+                                    // HTML for bookmark
+                                    resultsHtml += '<div class="wrapper" style="margin-top:8%;margin-bottom:5%;">';
+                                    resultsHtml += '<div class="product-img">';
+                                    resultsHtml += '<img src="' + imageUrl + '" class="card-img-top mt-1" alt="Image">';
+                                    resultsHtml += '</div>';
+                                    resultsHtml += '<div class="product-info">';
+                                    resultsHtml += '<div class="product-text">';
+                                    resultsHtml += '<h1>' + item.markname + '</h1>';
+                                    resultsHtml += '<p>' + item.description + '</p>';
+                                    resultsHtml += '</div>';
+                                    resultsHtml += '</div>';
+                                    resultsHtml += '</div>';
+                                }
+                                else if (item.categoryId === 5) {
+                                    var serverSidePath = '@Url.Content("~/UploadedFiles/Booksleeve/")';
+                                    var imageUrl = serverSidePath + item.imageUrl.replace('~/UploadedFiles/Booksleeve/', '');
+
+                                    // HTML for booksleeve
+                                    resultsHtml += '<div class="wrapper" style="margin-top:8%;margin-bottom:5%;">';
+                                    resultsHtml += '<div class="product-img">';
+                                    resultsHtml += '<img src="' + imageUrl + '" class="card-img-top mt-1" alt="Image">';
+                                    resultsHtml += '</div>';
+                                    resultsHtml += '<div class="product-info">';
+                                    resultsHtml += '<div class="product-text">';
+                                    resultsHtml += '<h1>' + item.sleevename + '</h1>';
+                                    resultsHtml += '<p>' + item.price + '</p>';
+                                    resultsHtml += '</div>';
+                                    resultsHtml += '</div>';
+                                    resultsHtml += '</div>';
+                                }
+                            });
+                            $('#searchResults').html(resultsHtml);
+                        } else {
+                            $('#searchResults').html('<p>' + response.message + '</p>');
+                        }
+                    },
+                    error: function (error) {
+                        console.log(error);
+                        $('#searchResults').html('<p>Error occurred while fetching data.</p>');
+                    }
+                });
+            });
+        });
+    </script>
+
+
+</head>
+<body style="font-family: Arapey, serif;background-color: #efebf0;">
+    <header>
+
+        <div id="notificationBanner" style="display:none; position: fixed; top: 0; width: 100%; background-color: slategray; color: white; text-align: center; padding: 10px; z-index: 1000;">
+            <b><span id="notificationMessage"></span></b>
+        </div>
+  
+        <div class="container" style="width: 100%;">
+            <div class="row">
+                <nav class="navbar navbar-expand-lg bg-body-tertiary fixed-top" style=" background-color: transparent;">
+                    <div class="container-fluid">
+                        <div class="col-4 gx-4">
+                            <a class="navbar-brand text-light ms-5" asp-controller="home" asp-action="index">
+                                <img src="/images/Lithive_transformed-removebg-preview.png" style=" width:250px;height:auto; background-color: transparent;" alt="lithive" />
+                            </a>
+                            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                                <span class="navbar-toggler-icon"></span>
+                            </button>
+                        </div>
+                        <div class="col-6">
+                            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                                <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                                    <li class="nav-item">
+                                        <a class="nav-link active text-dark" aria-current="page" asp-controller="home" asp-action="index">Home</a>
+                                    </li>
+                                    <li class="nav-item dropdown">
+                                        <a class="nav-link dropdown-toggle text-dark" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                            Book Categories
+                                        </a>
+                                        <ul class="dropdown-menu">
+                                            <li><a class="dropdown-item text-dark" id="fbooks" asp-controller="home" asp-action="fiction">Fiction</a></li>
+                                            <li><a class="dropdown-item text-dark" asp-controller="home" asp-action="nonfiction">Non-Fiction</a></li>
+                                            <li><a class="dropdown-item text-dark" asp-controller="home" asp-action="selfhelp">Self Help</a></li>
+                                        </ul>
+                                    </li>
+                                    <li class="nav-item dropdown">
+                                        <a class="nav-link dropdown-toggle text-dark" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                            Book Accessories
+                                        </a>
+                                        <ul class="dropdown-menu mr-2">
+                                            <li><a class="dropdown-item" asp-controller="home" asp-action="bookmark">Book Marks</a></li>
+                                            <li><a class="dropdown-item" asp-controller="home" asp-action="booksleeve">Book Sleeves</a></li>
+                                        </ul>
+                                    </li>
+                                    <div class="ms-3 me-md-1">
+                                        <a class="icon-link" asp-area="Identity" asp-page="/Account/Login" title="Login">
+                                            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-person mt-2  text-dark" viewBox="0 0 16 16">
+                                                <path d="M8 8a3 3 0 1 0 0-6 3 3 0 0 0 0 6m2-3a2 2 0 1 1-4 0 2 2 0 0 1 4 0m4 8c0 1-1 1-1 1H3s-1 0-1-1 1-4 6-4 6 3 6 4m-1-.004c-.001-.246-.154-.986-.832-1.664C11.516 10.68 10.289 10 8 10s-3.516.68-4.168 1.332c-.678.678-.83 1.418-.832 1.664z" />
+                                            </svg>
+                                        </a>
+                                    </div>
+
+
+                                    <li class="nav-item m-md-1">
+                                        <a class="icon-link  text-dark" asp-area="Identity" asp-page="/Account/Register">
+                                            Register
+                                        </a>
+                                    </li>
+                                    @if (!isAdmin)
+                                    {
+
+                                        <partial name="_ShoppingCart" />
+                                    }
+
+                                    @if (isAdmin)
+                                    {
+                                        <li class="nav-item">
+                                            <a class="nav-link text-dark" href="@Url.Action("AdminPanel", "Admin")">Admin</a>
+                                        </li>
+                                    }
+
+
+                                    <input class="form-control me-2" type="search" id="txt" placeholder="Search" aria-label="Search" name="query">
+                                    <button type="submit" class="btn p-0 border-0 bg-transparent" id="clickB">
+                                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-search text-dark mt-lg-2" viewBox="0 0 16 16">
+                                            <path d="M11.742 10.344a6.5 6.5 0 1 0-1.397 1.398h-.001q.044.06.098.115l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85a1 1 0 0 0-.115-.1zM12 6.5a5.5 5.5 0 1 1-11 0 5.5 5.5 0 0 1 11 0" />
+                                        </svg>
+                                    </button>
+
+
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </nav>
+            </div>
+        </div>
+    </header>
+
+    <div id="searchResults"></div>
+
+    <div>
+        @RenderBody();
+
+    </div>
+    @await RenderSectionAsync("Scripts", required: false)
+
+    <footer style="background-color: #2c2c2c; color: #ffffff; padding: 40px 0;">
+        <div style="max-width: 1170px; margin: 0 auto; display: flex; flex-wrap: wrap;">
+            <div style="flex: 0 0 25%; max-width: 25%; padding: 0 15px; box-sizing: border-box;">
+                <div style="margin-bottom: 20px;">
+                    <img src="/images/new1.png" alt="BookChoix Logo" style="max-width: 100px; margin-bottom: 10px;">
+                    <p>Premium Bookstore theme</p>
+                    <ul style="list-style: none; padding: 0;">
+                        <li style="margin-bottom: 10px;">
+                            <i class="fa fa-map-marker" style="margin-right: 5px;"></i> 27/119, North Street, California
+                        </li>
+                        <li style="margin-bottom: 10px;">
+                            <i class="fa fa-envelope" style="margin-right: 5px;"></i> contact@lithive.com
+                        </li>
+                        <li style="margin-bottom: 10px;">
+                            <i class="fa fa-phone" style="margin-right: 5px;"></i> +123 4567890
+                        </li>
+                    </ul>
+                </div>
+            </div>
+            <div style="flex: 0 0 25%; max-width: 25%; padding: 0 15px; box-sizing: border-box;">
+                <h4 style="margin-bottom: 20px;">Collections</h4>
+                <ul style="list-style: none; padding: 0;">
+                    <li style="margin-bottom: 10px;"><a href="#" style="color: #ffffff; text-decoration: none;">Romance</a></li>
+                    <li style="margin-bottom: 10px;"><a href="#" style="color: #ffffff; text-decoration: none;">Business Ethics</a></li>
+                    <li style="margin-bottom: 10px;"><a href="#" style="color: #ffffff; text-decoration: none;">Thrillers</a></li>
+                    <li style="margin-bottom: 10px;"><a href="#" style="color: #ffffff; text-decoration: none;">Marketing</a></li>
+                    <li style="margin-bottom: 10px;"><a href="#" style="color: #ffffff; text-decoration: none;">Budgeting and Finance</a></li>
+                </ul>
+            </div>
+            <div style="flex: 0 0 25%; max-width: 25%; padding: 0 15px; box-sizing: border-box;">
+                <h4 style="margin-bottom: 20px;">Quick Links</h4>
+                <ul style="list-style: none; padding: 0;">
+                    <li style="margin-bottom: 10px;"><a href="#" style="color: #ffffff; text-decoration: none;">About Us</a></li>
+                    <li style="margin-bottom: 10px;"><a href="#" style="color: #ffffff; text-decoration: none;">FAQ</a></li>
+                    <li style="margin-bottom: 10px;"><a href="#" style="color: #ffffff; text-decoration: none;">Shopping Guide</a></li>
+                    <li style="margin-bottom: 10px;"><a href="#" style="color: #ffffff; text-decoration: none;">Shipping Locations</a></li>
+                    <li style="margin-bottom: 10px;"><a href="#" style="color: #ffffff; text-decoration: none;">Refund and Returns Policy</a></li>
+                </ul>
+            </div>
+            <div style="flex: 0 0 25%; max-width: 25%; padding: 0 15px; box-sizing: border-box;">
+                <h4 style="margin-bottom: 20px;">Subscribe to get updates</h4>
+                <p style="margin-bottom: 20px;">Sign up for Newsletter to Get all the information on Events, Offers, Sales and More.</p>
+                <form style="display: flex;">
+                    <input type="email" placeholder="Enter Your Mail Here" style="padding: 10px; flex: 1; border: none; border-radius: 3px 0 0 3px;">
+                    <button type="submit" style="padding: 10px; background-color: #ff6347; border: none; color: #ffffff; border-radius: 0 3px 3px 0;">
+                        <i class="fa fa-paper-plane"></i>
+                    </button>
+                </form>
+            </div>
+        </div>
+        <div style="text-align: center; margin-top: 20px;">
+            <p>&copy; 2022 LitHive. All Rights Reserved.</p>
+        </div>
+    </footer>
+
+
+    <script src="~/js/bootstrap.bundle.js"></script>
+
+
+</body>
+</html>
+

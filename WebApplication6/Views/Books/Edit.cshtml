@@ -1,0 +1,41 @@
+﻿@model Domain.Models.Books
+
+@{
+    Layout = "/Views/Shared/_Layout.cshtml";
+}
+
+<div class="login1" style="background-image: url('@Url.Content("~/images/adminbg.jpg")');">
+
+    <div class="login" style="margin:0;font-family: Arapey, serif;" style="margin-top:8%; ">
+
+        <form method="post" action="/Books/Edit" enctype="multipart/form-data" style="margin-top:10px; ">
+            <fieldset>
+                <h3 class="text-dark">EDIT BOOK</h3>
+                <label class="text-dark"><b>Book name:</b></label>
+                <input type="text" name="bookname" placeholder="Enter book name" >
+                <br />
+                <label class="text-dark"><b>Price:</b></label>
+                <input type="text" name="price" placeholder="Enter Price">
+                <br />
+                <label class="text-dark"><b>Description:</b></label>
+                <input type="text" name="description" placeholder="Enter Description">
+                <br />
+                <label class="text-dark"><b>Quanity:</b></label>
+                <input type="number" name="quantity" placeholder="Enter Quanity" >
+                <br />
+                
+                <div class="mt-3">
+                    <input type="file" name="CoverImage">
+                </div>
+                <button type="submit" value="Upload">Update</button>
+                <br />
+                <br />
+            </fieldset>
+
+        </form>
+    </div>
+</div>
+<br />
+@section Mycss1 {
+    <link href="~/css1/LoginStyle.css" rel="stylesheet" />
+}

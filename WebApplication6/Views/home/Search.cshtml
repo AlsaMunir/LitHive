@@ -1,0 +1,16 @@
+﻿@model WebApplication6.Models.ViewModels.SearchViewModel
+
+@{
+    ViewData["Title"] = "Search Results";
+}
+
+<div style="margin-top:9%;background-color: #d8bfd8">
+    <h3 style="text-align: center; text-decoration: underline; font-family: Arapey, serif; color: black;">
+        <i>Search Results</i>
+    </h3>
+    <div id="searchResults" style="text-align: center; margin-top: 20px;">
+        @await RenderSectionAsync("Scripts", required: false)
+        
+    </div>
+</div>
+<br />

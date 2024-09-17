@@ -1,0 +1,78 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - LitHive</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css1/site.css" asp-append-version="true" />
+    @await RenderSectionAsync("Mycss1",required:false)
+    <link rel="stylesheet" href="~/WebApplication6.styles.css" asp-append-version="true" />
+</head>
+<body>
+    <header>
+        <div class="container" style=" width: 100%;">
+            <div class="row">
+                <nav class="navbar navbar-expand-lg bg-body-tertiary  fixed-top" style="background-color: transparent;">
+                    <div class="container-fluid">
+                        <div class="col-4 gx-4">
+                            
+                                @await RenderSectionAsync("Welcome", required: false)
+         
+                        </div>
+                        <div class="col-6">
+                            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                                <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                                    
+                                    <li class="nav-item ">
+                                        <a class="nav-link active text-light" aria-current="page" asp-controller="home" asp-action="index">Home</a>
+                                    </li>
+                                    <li class="nav-item dropdown">
+                                        <a class="nav-link dropdown-toggle text-light" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                            Book Categories
+                                        </a>
+                                        <ul class="dropdown-menu">
+                                            <li><a class="dropdown-item" asp-controller="home" asp-action="fiction">Fiction</a></li>
+                                            <li><a class="dropdown-item" asp-controller="home" asp-action="nonfiction">Non-Fiction</a></li>
+                                            <li><a class="dropdown-item" asp-controller="home" asp-action="selfhelp">Self Help</a></li>
+                                        </ul>
+                                    </li>
+                                    <li class="nav-item dropdown">
+                                        <a class="nav-link dropdown-toggle text-light" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                            Book Accessories
+                                        </a>
+                                        <ul class="dropdown-menu mr-2">
+                                            <li><a class="dropdown-item" asp-controller="home" asp-action="bookmark">Book Marks</a></li>
+                                            <li><a class="dropdown-item" asp-controller="home" asp-action="booksleeve">Book Sleeves</a></li>
+                                        </ul>
+                                    </li>
+                                </ul>
+                                <form class="d-flex ms-2 mt-2" role="search">
+                                    <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-search text-light mt-lg-2" viewBox="0 0 16 16">
+                                        <path d="M11.742 10.344a6.5 6.5 0 1 0-1.397 1.398h-.001q.044.06.098.115l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85a1 1 0 0 0-.115-.1zM12 6.5a5.5 5.5 0 1 1-11 0 5.5 5.5 0 0 1 11 0" />
+                                    </svg>
+                                </form>
+                            </div>
+                        </div>
+                    </div>
+                    <partial name="_LoginPartial" />
+                </nav>
+            </div>
+        </div>
+    </header>
+   
+    
+            @RenderBody()
+      
+    <footer class="border-top footer text-muted">
+        <div class="container">
+            &copy; 2024 - WebApplication6 - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+        </div>
+    </footer>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

@@ -1,0 +1,71 @@
+﻿<br />
+
+
+<div style="margin-top:3%;text-align: center; margin-bottom: 3%;">
+    <h3 style="margin-bottom: 2%; font-family: Arapey, serif; color: black;"><i><b>Highly Recommended</b></i></h3>
+    <hr style="width: 50px; height: 3px; background-color: black; border-color: black; margin: auto;">
+</div>
+
+<div style="margin-top:50px; margin-bottom:60px; ">
+
+    <div class="container ">
+        <div class="row justify-content-evenly gy-3" style="padding:20px;">
+            <div class="card text-center col-md-4 col-sm-6 col-12 col-lg-3 " style="width: 19rem;">
+                <img src="~/images/kiterunner.jpg" class="card-img-top mt-1" alt="Kite runner">
+                <div class="card-body">
+                    <h5 class="card-title">Kite Runner</h5>
+                    <p class="card-text">Price: Rs300</p>
+                    <a class="icon-link btn" asp-controller="home" asp-action="cart" class="btn" style="background-color: rgba(248, 154, 170, 0.733);">Add to cart</a>
+                </div>
+
+            </div>
+
+            <div class="card text-center col-md-4 col-sm-6 col-12 " style="width: 19rem;">
+                <img src="~/images/fivefeetapart.jpg" class="card-img-top mt-1" alt="five feet apart">
+                <div class="card-body">
+                    <h5 class="card-title">Five Feet Apart</h5>
+                    <p class="card-text">Price: Rs300</p>
+                    <a class="icon-link btn" asp-controller="home" asp-action="cart" class="btn" style="background-color: rgba(248, 154, 170, 0.733);">Add to cart</a>
+                </div>
+            </div>
+
+            <div class="card text-center col-md-4 col-sm-6 col-12 " style="width: 19rem;">
+                <img src="~/images/faultinourstars.jpg" class="card-img-top mt-1" alt="Fault in our stars">
+                <div class="card-body">
+                    <h5 class="card-title">Fault in our stars</h5>
+                    <p class="card-text">Price: Rs.300</p>
+                    <a class="icon-link btn" asp-controller="home" asp-action="cart" class="btn" style="background-color: rgba(248, 154, 170, 0.733);">Add to cart</a>
+                </div>
+            </div>
+
+        </div>
+
+    </div>
+
+</div>@* 
+@model List<Books>
+<div style="margin-top:50px;">
+    <table>
+        <thead>
+            <tr>
+                <td>Id</td>
+                <td>Name</td>
+                <td>description</td>
+                <td>img url</td>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var i in Model)
+            {
+                var imgUrl = Url.Content(i.ImageUrl);
+               <tr>
+                   <td>@i.Id</td>
+                   <td>@i.Bookname</td>
+                   <td>@i.Description</td>
+                   <td><img src="@imgUrl" alt="new book"></td>
+               </tr>
+            }
+        </tbody>
+    </table>
+
+</div> *@

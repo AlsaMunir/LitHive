@@ -1,0 +1,104 @@
+﻿@model IEnumerable<Domain.Models.Bookmarks>
+
+@{
+    ViewBag.Title = "bookmark";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div style="margin-top:9%;text-align: center; margin-bottom: 2%;">
+    <h3 style="margin-bottom: 2%; font-family: Arapey, serif; color: black;"><i><b>Bookmarks</b></i></h3>
+    <hr style="width: 50px; height: 3px; background-color: black; border-color: black; margin: auto;">
+</div>
+<div class="card-container">
+    <div id="books-container" class="row"></div>
+</div>
+
+@section Scripts
+{
+    <script>
+        $(document).ready(function () {
+            $.ajax({
+                url: '/home/bookmarkJ',
+                method: 'GET',
+                dataType: 'json',
+                success: function (data) {
+                    var html = '';
+                    var rowOpen = false;
+
+                    data.forEach(function (i, index) {
+                        if (index % 3 === 0) {
+                            if (rowOpen) {
+                                html += '</div>'; // Close the previous row
+                            }
+                            html += '<div class="row justify-content-evenly gy-5 gx-3 mt-3">'; // Open a new row
+                            rowOpen = true;
+                        }
+                        var serverSidePath = '@Url.Content("~/UploadedFiles/Bookmarks/")';
+                        var imageUrl = serverSidePath + i.imageUrl.replace('~/UploadedFiles/Bookmarks/', '');
+
+                        // Construct the HTML for each book card
+                        html += `<div class="card text-center col-md-4 col-sm-6 col-12">
+                                     <div class="card-body" style="max-width: 20rem;">
+                                     <img src="${imageUrl}" class="card-img-top mt-1" alt="${i.markname}">
+                                     <hr />
+                                     <h5 class="card-title">${i.markname}</h5>
+                                     <p class="card-text">Price: ${i.price}</p>
+                                     <div class="card-overlay">
+                                     <h5 class="text-dark">Description</h5>
+                                     <p class="text-dark"><b>Explore the captivating world of books on our website, where literary treasures await. From timeless classics to contemporary bestsellers, dive into a diverse selection spanning genres, authors, and interests. Immerse yourself in stories that inspire, educate, and entertain, curated to ignite your passion for reading.</b></p>
+                                     </div>
+                                     <button class="add-to-cart-btn" style="background-color:lightpink;">Add to Cart</button>
+                                     </div>
+                                  </div>`;
+                    });
+
+                    if (rowOpen) {
+                        html += '</div>'; // Close the last row
+                    }
+
+                    $("#books-container").html(html);
+                    // attachAddToCartEventListeners();
+                },
+                error: function (error) {
+                    $("#books-container").html("<p>An error occurred while fetching the books.</p>", error);
+                }
+            });
+        });
+
+    </script>
+}
+
+
+@*
+// <script>
+//     document.addEventListener('DOMContentLoaded', function () {
+//         var addToCartButtons = document.querySelectorAll('.add-to-cart-btn');
+
+//         addToCartButtons.forEach(function (button) {
+//             button.addEventListener('click', function (event) {
+//                 event.preventDefault();
+
+//                 var bookId = button.getAttribute('value');
+
+//                 var form = document.createElement('form');
+//                 form.method = 'post';
+//                 form.action = '@Url.Action("Add", "Cart")';
+
+//                 var hiddenField = document.createElement('input');
+//                 hiddenField.type = 'hidden';
+//                 hiddenField.name = 'id';
+//                 hiddenField.value = bookId;
+
+//                 form.appendChild(hiddenField);
+//                 document.body.appendChild(form);
+
+//                 form.submit();
+//             });
+//         });
+//     });
+// </script>
+*@
+
+@section Mycss1 {
+    <link href="~/css1/LoginStyle.css" rel="stylesheet" />
+}

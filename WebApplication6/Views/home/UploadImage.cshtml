@@ -1,0 +1,40 @@
+﻿@{
+    Layout = "/Views/Shared/_Layout.cshtml";
+}
+
+
+<div class="login1" style="background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSORVMl62DjinFqY2Zxd3wrK7-kd42oeQECpAwyquZB4lISy6anKjDoXVYuyzLEcXzUujQ&usqp=CAU'); margin:0;">
+    <div class="login" style="margin:0;">
+
+        <form method="post"  enctype="multipart/form-data" action="/home/UploadFiles">
+            <fieldset>
+                <h3>Add Book</h3>
+                <label><b>Book name:</b></label>
+                <input type="text" name="bookname" placeholder="Enter book name">
+                <br />
+                <label><b>Price:</b></label>
+                <input type="text" name="price" placeholder="Enter Price">
+                <br />
+                <br />
+                <label><b>Description:</b></label> 
+                <input type="text" name="description" placeholder="Enter Description">
+                <br />
+                <br />
+                <label><b>Quanity:</b></label>
+                <input type="number" name="quantity" placeholder="Enter Quanity">
+                <br />
+                <br />
+                <div class="mb-3">
+                    <input type="file" name="myfile">
+                </div>
+                <button type="submit" value="Upload">add</button>
+                <br />
+            </fieldset>
+
+        </form>
+    </div>
+</div>
+<br />
+@section Mycss1 {
+    <link href="~/css1/LoginStyle.css" rel="stylesheet" />
+}

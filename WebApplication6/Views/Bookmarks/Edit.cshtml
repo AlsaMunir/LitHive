@@ -1,0 +1,35 @@
+﻿@model Domain.Models.Bookmarks
+
+@{
+    Layout = "/Views/Shared/_Layout.cshtml";
+}
+
+<div class="login1" style="background-image: url('@Url.Content("~/images/adminbg.jpg")');">
+    <div class="login" style="margin:0;font-family: Arapey, serif;" style="margin-top:8%;">
+        <form method="post" action="/Bookmarks/Edit" enctype="multipart/form-data" style="margin-top:10px;">
+            <fieldset>
+                <h3 class="text-dark">EDIT BOOKMARK</h3>
+                <label class="text-dark"><b>Bookmark name:</b></label>
+                <input type="text" name="markname" placeholder="Enter bookmark name" >
+                <br />
+                <label class="text-dark"><b>Price:</b></label>
+                <input type="text" name="price" placeholder="Enter Price" >
+                <br />
+                <br />
+                <label class="text-dark"><b>Quantity:</b></label>
+                <input type="number" name="quantity" placeholder="Enter Quantity" >
+                <br />
+                <div class="mt-3">
+                    <input type="file" name="CoverImage">
+                </div>
+                <button type="submit" value="Upload">Update</button>
+                <br />
+                <br />
+            </fieldset>
+        </form>
+    </div>
+</div>
+<br />
+@section Mycss1 {
+    <link href="~/css1/LoginStyle.css" rel="stylesheet" />
+}

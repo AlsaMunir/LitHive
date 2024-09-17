@@ -1,0 +1,26 @@
+﻿@model Domain.Models.Books
+
+@{
+    Layout = "/Views/Shared/_Layout.cshtml";
+}
+
+<div class="login1" style="background-image: url('@Url.Content("~/images/adminbg.jpg")');">
+    <div class="login" style="margin:0;font-family: Arapey, serif;" style="margin-top:8%; ">
+        <form method="post" action="/Books/Delete" enctype="multipart/form-data" style="margin-top:10px; ">
+            <fieldset>
+                <h3 class="text-dark">DELETE BOOK</h3>
+                <label class="text-dark"><b>Book name:</b></label>
+                <input type="text" name="markname" placeholder="Enter bookmark name">
+                <span class="text-danger">@Html.ValidationMessage("markname")</span>
+                <br />
+                <button type="submit" value="Delete">Delete</button>
+                <br />
+                <br />
+            </fieldset>
+        </form>
+    </div>
+</div>
+<br />
+@section Mycss1 {
+    <link href="~/css1/LoginStyle.css" rel="stylesheet" />
+}

@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  webapplication6:
+    image: ${DOCKER_REGISTRY-}webapplication6
+    build:
+      context: .
+      dockerfile: WebApplication6/Dockerfile

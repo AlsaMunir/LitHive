@@ -1,0 +1,424 @@
+﻿@model string
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@{
+    ViewBag.Title = "index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<style>
+    .carousel-caption-left {
+        position: absolute;
+        top: 40%;
+        left: 5%;
+        transform: translateY(-50%);
+        text-align: left;
+    }
+
+</style>
+
+<link href="~/style/style.css" rel="stylesheet" />
+
+<section class="homee">
+    <div id="carouselExampleCaptions" class="carousel slide" data-bs-ride="carousel">
+        <div class="carousel-indicators">
+            <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+            <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="1" aria-label="Slide 2"></button>
+        </div>
+
+        <div class="carousel-inner">
+            <div class="carousel-item active">
+                <img id="carousel1" src="~/images/lithivebg.jpg" class="d-block w-100" alt="..." style="height:100vh;width:100%;background-size: cover; background-position: center;">
+                <div class="carousel-caption-left">
+                    <h2 style="font-style:oblique;color:black; margin-bottom:2%;"><b>YOUR ONLINE LITERARY OASIS</b></h2>
+                    <h5 style="color:black;"><b><i>Explore a world of books and more....</i></b></h5>
+                </div>
+            </div>
+        </div>
+
+        <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Previous</span>
+        </button>
+        <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Next</span>
+        </button>
+    </div>
+</section>
+
+
+
+
+
+<div class="d-none d-md-block text-center text-dark" style="margin-top:8%; margin-bottom:8%;">
+    <h4><i><b>"A reader lives a thousand lives before he dies... The man who never reads lives only one." - George R.R. Martin</b></i></h4>
+</div>
+
+
+<div class="wrapper" style="margin-bottom:5%;">
+
+    <div class="product-img">
+
+        <img src="~/UploadedFiles/Books/people.jpg" 
+             class="card-img-top mt-1"
+             alt="Book Mark1">
+    </div>
+    <div class="product-info">
+        <div class="product-text">
+            <h1>All The Lonely People</h1>
+            <h2>Non-fiction</h2>
+            <p>A story about the girl that will inspire most of the people</p>
+        </div>
+        <div class="product-price-btn">
+            <p style="text-align:center;">Rs.300</p>
+        </div>
+    </div>
+</div>
+
+
+
+
+<div class="bg">
+</div>
+
+
+
+
+<!-- BEST SELLERS -->
+
+
+<div>
+    <div style="text-align: center; margin-bottom: 5%;">
+        <h3 style="margin-bottom: 2%; font-family: Arapey, serif; color: black;"><i><b>Best Sellers</b></i></h3>
+        <hr style="width: 50px; height: 3px; background-color: black; border-color: black; margin: auto;">
+    </div>
+
+    <div class="container " style="margin-bottom:5%;">
+        <div class="row justify-content-evenly gy-3" style="font-family: Arapey, serif;">
+            <div class="card text-center col-md-4 col-sm-6 col-12">
+                <a class="dropdown-item" asp-controller="home" asp-action="fiction">
+                    <img src="~/images/kiterunner.jpg" class="card-img-top img-fluid mt-1 book-img" alt="five feet apart">
+                </a>
+                <hr />
+                <div class="card-body">
+                    <h5 class="card-title">Kite Runner</h5>
+                    <p class="card-text">Price: Rs300</p>
+                </div>
+            </div>
+
+            <div class="card text-center col-md-4 col-sm-6 col-12 " style="width: 18rem;">
+                <a class="dropdown-item" asp-controller="home" asp-action="fiction"> <img src="~/images/fivefeetapart.jpg" class="card-img-top mt-1" alt="five feet apart"></a>
+                <hr />
+                <div class="card-body">
+                    <h5 class="card-title">Five Feet Apart</h5>
+                    <p class="card-text">Price: Rs300</p>
+
+                </div>
+            </div>
+
+            <div class="card text-center col-md-4 col-sm-6 col-12 " style="width: 18rem;">
+                <a class="dropdown-item" asp-controller="home" asp-action="fiction">    <img src="~/images/faultinourstars.jpg" class="card-img-top mt-1" alt="fault in our stars"></a>
+                <hr />
+                <div class="card-body">
+                    <h5 class="card-title">Fault In Our Stars</h5>
+                    <p class="card-text">Price: Rs300</p>
+
+                </div>
+
+            </div>
+        </div>
+
+        <div class="row justify-content-evenly gy-3 mt-2" style="font-family: Arapey, serif;">
+            <div class="card text-center col-md-3 col-sm-6 col-12 " style="width: 18rem;">
+                <img src="~/images/harrypotter.jpg" class="card-img-top mt-1" alt="...">
+                <hr />
+                <div class="card-body">
+                    <h5 class="card-title">Harry Potter</h5>
+                    <p class="card-text">Desc</p>
+
+                </div>
+
+            </div>
+
+            <div class="card text-center col-md-3 col-sm-6 col-12 " style="width: 18rem;">
+                <img src="~/images/fiction/ends.jpg" class="card-img-top mt-1" alt="...">
+                <hr />
+                <div class="card-body">
+                    <h5 class="card-title">It Ends With Us</h5>
+                    <p class="card-text">Desc</p>
+
+                </div>
+            </div>
+        </div>
+
+    </div>
+</div>
+
+<br />
+
+<!-- BOOK MARKS -->
+
+<section>
+    <br />
+    <div style="text-align: center; margin-bottom: 5%;">
+        <h3 style="margin-bottom: 2%; font-family: Arapey, serif; color: black;"><i><b>Bookmarks</b></i></h3>
+        <hr style="width: 50px; height: 3px; background-color: black; border-color: black; margin: auto;">
+    </div>
+    <br>
+    <div class="container">
+        <div class="row justify-content-evenly gy-3" style="font-family: Arapey, serif;">
+
+            <div class="card text-center col-md-3 col-sm-6 col-12" style="width:16rem;">
+                <img src="~/images/mark1.jpg" class="card-img-top mt-1" alt="Book Mark1">
+                <div class="card-body">
+                    <h5>Handamade Bookmark</h5>
+                    <p class="card-text">Price: Rs400</p>
+                </div>
+            </div>
+
+            <div class="card text-center col-md-3 col-sm-6 col-12" style="width:18rem;">
+                <img src="~/images/mark2.jpg" class="card-img-top mt-1" alt="Book Mark1">
+                <div class="card-body">
+                    <h5>Handamade Floral Bookmark</h5>
+                    <p class="card-text">Price: Rs400</p>
+                </div>
+            </div>
+
+            <div class="card text-center col-md-3 col-sm-6 col-12" style="width:18rem;">
+                <img src="~/images/mark3.jpg" class="card-img-top mt-1" alt="Book Mark1">
+                <div class="card-body">
+                    <h5>Handpainted Bookmark</h5>
+                    <p class="card-text">Price: Rs400</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="row justify-content-evenly mt-2 gy-3" style="font-family: Arapey, serif;">
+            <div class="card text-center col-md-3 col-sm-6 col-12" style="width:18rem;">
+                <img src="~/images/mark4.jpg" class="card-img-top mt-1" alt="Book Mark1">
+                <div class="card-body">
+                    <h5>Glass Painted Bookmark</h5>
+                    <p class="card-text">Price: Rs400</p>
+                </div>
+            </div>
+            <div class="card text-center col-md-3 col-sm-6 col-12" style="width:18rem;">
+                <img src="~/images/mark5.jpg" class="card-img-top mt-1" alt="Book Mark1">
+                <div class="card-body">
+                    <h5>Glass Painted Bookmark</h5>
+                    <p class="card-text">Price: Rs400</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+</div>
+
+
+<div class="d-none d-md-block text-center text-dark" style="margin-top:8%; margin-bottom:8%;">
+    <h4><i><b>"There is no friend as loyal as a book" - Ernest Hemmingway</b></i></h4>
+</div>
+
+
+<div class="wrapper" style="margin-bottom:5%;">
+    <div class="product-img">
+        <img src="~/UploadedFiles/Books/everysummer.jpg"
+             srcset="~/UploadedFiles/Books/everysummer.jpg 1x, ~/UploadedFiles/Books/everysummer.jpg 2x"
+             class="card-img-top mt-1"
+             alt="Book Mark1">
+    </div>
+    <div class="product-info">
+        <div class="product-text">
+            <h1>Every Summer After</h1>
+            <h2>Non-fiction</h2>
+            <p>A story about the girl that will inspire most of the people</p>
+        </div>
+        <div class="product-price-btn">
+            <p style="text-align:center;">$99.99</p>
+
+        </div>
+    </div>
+</div>
+
+<!-- BOOK SLEEVES -->
+
+
+<br>
+<div style="text-align: center; margin-bottom: 5%;">
+    <h3 style="margin-bottom: 2%; font-family: Arapey, serif; color: black;"><i><b>Book Sleeves</b></i></h3>
+    <hr style="width: 50px; height: 3px; background-color: black; border-color: black; margin: auto;">
+</div>
+<br>
+
+<section>
+    <div class="container" style="margin-bottom:5%;">
+        <div class="row justify-content-evenly gy-3" style="font-family: Arapey, serif;">
+
+            <div class="card text-center col-md-3 col-sm-6 col-12" style="width:18rem;">
+                <img src="~/images/sleeve1.jpg" class="card-img-top mt-1" alt="Book Mark1">
+                <div class="card-body">
+                    <h5>The marauder's booksleeve</h5>
+                    <p class="card-text">Price: Rs400</p>
+                </div>
+            </div>
+
+            <div class="card text-center col-md-3 col-sm-6 col-12" style="width:18rem;">
+                <img src="~/images/sleeve2.jpg" class="card-img-top mt-1" alt="Book Mark1">
+                <div class="card-body">
+                    <h5>Leather booksleeve</h5>
+                    <p class="card-text">Price: Rs400</p>
+                </div>
+            </div>
+
+            <div class="card text-center col-md-3 col-sm-6 col-12" style="width:18rem;">
+                <img src="~/images/sleeve3.jpg" class="card-img-top mt-1" alt="Book Mark1">
+                <div class="card-body">
+                    <h5>Haindpainted Booksleeve</h5>
+                    <p class="card-text">Price: Rs400</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<br>
+<br>
+
+
+<!-- testimonials -->
+<div style="text-align: center; margin-bottom: 5%;">
+    <h3 style="margin-bottom: 2%; font-family: Arapey, serif; color: black;"><i><b>Testimonials</b></i></h3>
+    <hr style="width: 50px; height: 3px; background-color: black; border-color: black; margin: auto;">
+</div>
+
+<section>
+    <div class="test">
+        <div class="container ">
+
+            <div class="row ms-5">
+
+                <div class="col-lg-4">
+                    <div class="card ">
+                        <div class="face front-face">
+                            <img src="~/images/mprofile.jpg" alt="" class="profile">
+                            <div class="pt-3 text-uppercase name">
+                                Marina
+                            </div>
+                        </div>
+                        <div class="face back-face" >
+                            <span class="fas fa-quote-left" ></span>
+                            <div class="testimonial">
+                                Great service! Very happy with my choice, will definitely shop again. Thank you!
+                            </div>
+                            <span class="fas fa-quote-right"></span>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4">
+                    <div class="card">
+                        <div class="face front-face">
+                            <img src="~/images/jprofile.png"
+                                 alt="" class="profile">
+                            <div class="pt-3 text-uppercase name">
+                                Jeffery Kennan
+                            </div>
+
+                        </div>
+                        <div class="face back-face">
+                            <span class="fas fa-quote-center"></span>
+                            <div class="testimonial">
+                                Great contactless shipping delivery with reasonable price. Simply awesome service
+                            </div>
+                            <span class="fas fa-quote-right"></span>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4">
+                    <div class="card">
+                        <div class="face front-face">
+                            <img src="~/images/kprofile.png"
+                                 alt="" class="profile">
+                            <div class="pt-3 text-uppercase name">
+                                Kate Maxwell
+                            </div>
+
+                        </div>
+                        <div class="face back-face">
+                            <span class="fas fa-quote-left"></span>
+                            <div class="testimonial">
+                                Very good variety of books for incredibly good prices. Also, very easy and quick process with great customer service.
+                            </div>
+                            <span class="fas fa-quote-right"></span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="row mt-5" style="margin-left:20%;">
+                <div class="col-lg-4 me-4">
+                    <div class="card">
+                        <div class="face front-face">
+                            <img src="~/images/kprofile.png"
+                                 alt="" class="profile">
+                            <div class="pt-3 text-uppercase name">
+                                Kate Maxwell
+                            </div>
+
+                        </div>
+                        <div class="face back-face">
+                            <span class="fas fa-quote-left"></span>
+                            <div class="testimonial">
+                                Very good variety of books for incredibly good prices. Also, very easy and quick process with great customer service.
+                            </div>
+                            <span class="fas fa-quote-right"></span>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4">
+                    <div class="card ">
+                        <div class="face front-face">
+                            <img src="~/images/mprofile.jpg" alt="" class="profile">
+                            <div class="pt-3 text-uppercase name">
+                                Marina
+                            </div>
+                        </div>
+                        <div class="face back-face">
+                            <span class="fas fa-quote-left"></span>
+                            <div class="testimonial">
+                                Great service! Very happy with my choice, will definitely shop again. Thank you!
+                            </div>
+                            <span class="fas fa-quote-right"></span>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+</section>
+
+
+<br>
+<br>
+
+
+<!-- cookies -->
+<div style="text-align: center;margin-top:2%; margin-bottom: 3%;">
+    <h3 style="margin-bottom: 2%; font-family: Arapey, serif; color: black;"><i><b>Last Visited</b></i></h3>
+    <hr style="width: 50px; height: 3px; background-color: black; border-color: black; margin: auto;">
+</div>
+<br />
+<div style="margin-bottom:4%;">
+    @if (!string.IsNullOrEmpty(Model))
+    {
+        <h4 style="text-align:center;"><b>@Model</b></h4>
+    }
+    else
+    {
+        <h4 class="text-dark" style="text-align:center;">Welcome to our website!</h4>
+    }
+</div>
+
+<script>
+$(document).ready(function () {
+        $('.homee').hide(10).fadeIn(2000)
+});
+</script>
