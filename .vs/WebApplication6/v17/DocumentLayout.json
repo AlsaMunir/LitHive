@@ -3,8 +3,51 @@
   "WorkspaceRootPath": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{1D0A8651-EA9C-43D1-B062-9A6BD11FD4AD}|WebApplication6\\WebApplication6.csproj|c:\\users\\alsa munir\\onedrive\\desktop\\webapplication6\\webapplication6\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1D0A8651-EA9C-43D1-B062-9A6BD11FD4AD}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D0A8651-EA9C-43D1-B062-9A6BD11FD4AD}|WebApplication6\\WebApplication6.csproj|c:\\users\\alsa munir\\onedrive\\desktop\\webapplication6\\webapplication6\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1D0A8651-EA9C-43D1-B062-9A6BD11FD4AD}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D0A8651-EA9C-43D1-B062-9A6BD11FD4AD}|WebApplication6\\WebApplication6.csproj|c:\\users\\alsa munir\\onedrive\\desktop\\webapplication6\\webapplication6\\views\\bookmarks\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1D0A8651-EA9C-43D1-B062-9A6BD11FD4AD}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\views\\bookmarks\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D0A8651-EA9C-43D1-B062-9A6BD11FD4AD}|WebApplication6\\WebApplication6.csproj|c:\\users\\alsa munir\\onedrive\\desktop\\webapplication6\\webapplication6\\views\\cart\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1D0A8651-EA9C-43D1-B062-9A6BD11FD4AD}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\views\\cart\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D0A8651-EA9C-43D1-B062-9A6BD11FD4AD}|WebApplication6\\WebApplication6.csproj|c:\\users\\alsa munir\\onedrive\\desktop\\webapplication6\\webapplication6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D0A8651-EA9C-43D1-B062-9A6BD11FD4AD}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30CD68F0-8CB3-4829-8C37-43361D925C42}|Infrastructure\\Infrastructure.csproj|c:\\users\\alsa munir\\onedrive\\desktop\\webapplication6\\infrastructure\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30CD68F0-8CB3-4829-8C37-43361D925C42}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D0A8651-EA9C-43D1-B062-9A6BD11FD4AD}|WebApplication6\\WebApplication6.csproj|c:\\users\\alsa munir\\onedrive\\desktop\\webapplication6\\webapplication6\\views\\home\\nonfiction.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1D0A8651-EA9C-43D1-B062-9A6BD11FD4AD}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\views\\home\\nonfiction.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D0A8651-EA9C-43D1-B062-9A6BD11FD4AD}|WebApplication6\\WebApplication6.csproj|c:\\users\\alsa munir\\onedrive\\desktop\\webapplication6\\webapplication6\\views\\home\\fiction.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1D0A8651-EA9C-43D1-B062-9A6BD11FD4AD}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\views\\home\\fiction.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D0A8651-EA9C-43D1-B062-9A6BD11FD4AD}|WebApplication6\\WebApplication6.csproj|c:\\users\\alsa munir\\onedrive\\desktop\\webapplication6\\webapplication6\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D0A8651-EA9C-43D1-B062-9A6BD11FD4AD}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1D0A8651-EA9C-43D1-B062-9A6BD11FD4AD}|WebApplication6\\WebApplication6.csproj|c:\\users\\alsa munir\\onedrive\\desktop\\webapplication6\\webapplication6\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1D0A8651-EA9C-43D1-B062-9A6BD11FD4AD}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D0A8651-EA9C-43D1-B062-9A6BD11FD4AD}|WebApplication6\\WebApplication6.csproj|c:\\users\\alsa munir\\onedrive\\desktop\\webapplication6\\webapplication6\\views\\home\\bookmark.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1D0A8651-EA9C-43D1-B062-9A6BD11FD4AD}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\views\\home\\bookmark.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/QueensDB/True/SqlTable/dbo.Books.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1D0A8651-EA9C-43D1-B062-9A6BD11FD4AD}|WebApplication6\\WebApplication6.csproj|c:\\users\\alsa munir\\onedrive\\desktop\\webapplication6\\webapplication6\\controllers\\bookmarkscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -19,20 +62,8 @@
       "RelativeMoniker": "D:0:0:{1D0A8651-EA9C-43D1-B062-9A6BD11FD4AD}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\wwwroot\\js\\clientnotification.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1D0A8651-EA9C-43D1-B062-9A6BD11FD4AD}|WebApplication6\\WebApplication6.csproj|c:\\users\\alsa munir\\onedrive\\desktop\\webapplication6\\webapplication6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1D0A8651-EA9C-43D1-B062-9A6BD11FD4AD}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1D0A8651-EA9C-43D1-B062-9A6BD11FD4AD}|WebApplication6\\WebApplication6.csproj|c:\\users\\alsa munir\\onedrive\\desktop\\webapplication6\\webapplication6\\wwwroot\\style\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{1D0A8651-EA9C-43D1-B062-9A6BD11FD4AD}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\wwwroot\\style\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1D0A8651-EA9C-43D1-B062-9A6BD11FD4AD}|WebApplication6\\WebApplication6.csproj|c:\\users\\alsa munir\\onedrive\\desktop\\webapplication6\\webapplication6\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1D0A8651-EA9C-43D1-B062-9A6BD11FD4AD}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1D0A8651-EA9C-43D1-B062-9A6BD11FD4AD}|WebApplication6\\WebApplication6.csproj|c:\\users\\alsa munir\\onedrive\\desktop\\webapplication6\\webapplication6\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1D0A8651-EA9C-43D1-B062-9A6BD11FD4AD}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1D0A8651-EA9C-43D1-B062-9A6BD11FD4AD}|WebApplication6\\WebApplication6.csproj|c:\\users\\alsa munir\\onedrive\\desktop\\webapplication6\\webapplication6\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
@@ -57,10 +88,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{1D0A8651-EA9C-43D1-B062-9A6BD11FD4AD}|WebApplication6\\WebApplication6.csproj|c:\\users\\alsa munir\\onedrive\\desktop\\webapplication6\\webapplication6\\views\\books\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{1D0A8651-EA9C-43D1-B062-9A6BD11FD4AD}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\views\\books\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{30CD68F0-8CB3-4829-8C37-43361D925C42}|Infrastructure\\Infrastructure.csproj|c:\\users\\alsa munir\\onedrive\\desktop\\webapplication6\\infrastructure\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{30CD68F0-8CB3-4829-8C37-43361D925C42}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{47CDEC91-0383-4B2B-9BC0-43A347754076}|Application\\Application.csproj|c:\\users\\alsa munir\\onedrive\\desktop\\webapplication6\\application\\services\\genericservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -91,31 +118,16 @@
       "RelativeMoniker": "D:0:0:{1D0A8651-EA9C-43D1-B062-9A6BD11FD4AD}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\views\\bookmarks\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1D0A8651-EA9C-43D1-B062-9A6BD11FD4AD}|WebApplication6\\WebApplication6.csproj|c:\\users\\alsa munir\\onedrive\\desktop\\webapplication6\\webapplication6\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1D0A8651-EA9C-43D1-B062-9A6BD11FD4AD}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{AB9B2468-A4C4-43B9-B960-6887A5648884}|Domain\\Domain.csproj|c:\\users\\alsa munir\\onedrive\\desktop\\webapplication6\\domain\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AB9B2468-A4C4-43B9-B960-6887A5648884}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1D0A8651-EA9C-43D1-B062-9A6BD11FD4AD}|WebApplication6\\WebApplication6.csproj|c:\\users\\alsa munir\\onedrive\\desktop\\webapplication6\\webapplication6\\views\\home\\fiction.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1D0A8651-EA9C-43D1-B062-9A6BD11FD4AD}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\views\\home\\fiction.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1D0A8651-EA9C-43D1-B062-9A6BD11FD4AD}|WebApplication6\\WebApplication6.csproj|c:\\users\\alsa munir\\onedrive\\desktop\\webapplication6\\webapplication6\\views\\home\\selfhelp.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{1D0A8651-EA9C-43D1-B062-9A6BD11FD4AD}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\views\\home\\selfhelp.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1D0A8651-EA9C-43D1-B062-9A6BD11FD4AD}|WebApplication6\\WebApplication6.csproj|c:\\users\\alsa munir\\onedrive\\desktop\\webapplication6\\webapplication6\\views\\home\\nonfiction.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1D0A8651-EA9C-43D1-B062-9A6BD11FD4AD}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\views\\home\\nonfiction.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{30CD68F0-8CB3-4829-8C37-43361D925C42}|Infrastructure\\Infrastructure.csproj|c:\\users\\alsa munir\\onedrive\\desktop\\webapplication6\\infrastructure\\booksrepositorydecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{30CD68F0-8CB3-4829-8C37-43361D925C42}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\booksrepositorydecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/QueensDB/True/SqlTable/dbo.Books.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1D0A8651-EA9C-43D1-B062-9A6BD11FD4AD}|WebApplication6\\WebApplication6.csproj|c:\\users\\alsa munir\\onedrive\\desktop\\webapplication6\\webapplication6\\views\\shared\\_layout1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -234,16 +246,8 @@
       "RelativeMoniker": "D:0:0:{1D0A8651-EA9C-43D1-B062-9A6BD11FD4AD}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\views\\cart\\addtocart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1D0A8651-EA9C-43D1-B062-9A6BD11FD4AD}|WebApplication6\\WebApplication6.csproj|c:\\users\\alsa munir\\onedrive\\desktop\\webapplication6\\webapplication6\\views\\cart\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1D0A8651-EA9C-43D1-B062-9A6BD11FD4AD}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\views\\cart\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1D0A8651-EA9C-43D1-B062-9A6BD11FD4AD}|WebApplication6\\WebApplication6.csproj|c:\\users\\alsa munir\\onedrive\\desktop\\webapplication6\\webapplication6\\views\\booksleeves\\addbooksleeves.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{1D0A8651-EA9C-43D1-B062-9A6BD11FD4AD}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\views\\booksleeves\\addbooksleeves.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1D0A8651-EA9C-43D1-B062-9A6BD11FD4AD}|WebApplication6\\WebApplication6.csproj|c:\\users\\alsa munir\\onedrive\\desktop\\webapplication6\\webapplication6\\views\\bookmarks\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1D0A8651-EA9C-43D1-B062-9A6BD11FD4AD}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\views\\bookmarks\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1D0A8651-EA9C-43D1-B062-9A6BD11FD4AD}|WebApplication6\\WebApplication6.csproj|c:\\users\\alsa munir\\onedrive\\desktop\\webapplication6\\webapplication6\\views\\bookmarks\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -287,10 +291,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{1D0A8651-EA9C-43D1-B062-9A6BD11FD4AD}|WebApplication6\\WebApplication6.csproj|c:\\users\\alsa munir\\onedrive\\desktop\\webapplication6\\webapplication6\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1D0A8651-EA9C-43D1-B062-9A6BD11FD4AD}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1D0A8651-EA9C-43D1-B062-9A6BD11FD4AD}|WebApplication6\\WebApplication6.csproj|c:\\users\\alsa munir\\onedrive\\desktop\\webapplication6\\webapplication6\\views\\home\\bookmark.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1D0A8651-EA9C-43D1-B062-9A6BD11FD4AD}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\views\\home\\bookmark.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Alsa Munir\\Downloads\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
@@ -401,61 +401,169 @@
       "DocumentGroups": [
         {
           "DockedHeight": 550,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AdminController.cs",
-              "DocumentMoniker": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\Controllers\\AdminController.cs",
-              "RelativeDocumentMoniker": "WebApplication6\\Controllers\\AdminController.cs",
-              "ToolTip": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\Controllers\\AdminController.cs",
-              "RelativeToolTip": "WebApplication6\\Controllers\\AdminController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "DocumentIndex": 5,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\Infrastructure\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\Infrastructure\\GenericRepository.cs",
+              "RelativeToolTip": "Infrastructure\\GenericRepository.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAAAFUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-30T14:30:35.333Z",
+              "WhenOpened": "2024-08-12T08:07:20.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "booksController.cs",
+              "DocumentMoniker": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\Controllers\\booksController.cs",
+              "RelativeDocumentMoniker": "WebApplication6\\Controllers\\booksController.cs",
+              "ToolTip": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\Controllers\\booksController.cs",
+              "RelativeToolTip": "WebApplication6\\Controllers\\booksController.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAADYAAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T13:49:49.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication6\\Program.cs",
+              "ToolTip": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\Program.cs",
+              "RelativeToolTip": "WebApplication6\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T06:13:08.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Checkout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\Views\\Cart\\Checkout.cshtml",
+              "RelativeDocumentMoniker": "WebApplication6\\Views\\Cart\\Checkout.cshtml",
+              "ToolTip": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\Views\\Cart\\Checkout.cshtml",
+              "RelativeToolTip": "WebApplication6\\Views\\Cart\\Checkout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAACLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-04T16:41:21.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\Views\\Bookmarks\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication6\\Views\\Bookmarks\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\Views\\Bookmarks\\Index.cshtml",
+              "RelativeToolTip": "WebApplication6\\Views\\Bookmarks\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-12T06:14:35.146Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "nonfiction.cshtml",
+              "DocumentMoniker": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\Views\\home\\nonfiction.cshtml",
+              "RelativeDocumentMoniker": "WebApplication6\\Views\\home\\nonfiction.cshtml",
+              "ToolTip": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\Views\\home\\nonfiction.cshtml",
+              "RelativeToolTip": "WebApplication6\\Views\\home\\nonfiction.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAmwA4AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-18T12:00:39.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\Views\\home\\index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication6\\Views\\home\\index.cshtml",
+              "ToolTip": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\Views\\home\\index.cshtml",
+              "RelativeToolTip": "WebApplication6\\Views\\home\\index.cshtml",
+              "ViewState": "AQIAAKcBAAAAAAAAAAAAAKMBAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-15T12:58:50.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "WebApplication6\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "WebApplication6\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABBAAAA",
+              "ViewState": "AQIAAMAAAAAAAAAAAAAAAMoAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-27T19:47:16.086Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "site.js",
-              "DocumentMoniker": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\js\\site.js",
-              "RelativeDocumentMoniker": "WebApplication6\\wwwroot\\js\\site.js",
-              "ToolTip": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\js\\site.js",
-              "RelativeToolTip": "WebApplication6\\wwwroot\\js\\site.js",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAABHAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-07-15T11:55:42.247Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ClientNotification.js",
-              "DocumentMoniker": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\js\\ClientNotification.js",
-              "RelativeDocumentMoniker": "WebApplication6\\wwwroot\\js\\ClientNotification.js",
-              "ToolTip": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\js\\ClientNotification.js",
-              "RelativeToolTip": "WebApplication6\\wwwroot\\js\\ClientNotification.js",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAADAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-08-16T17:07:40.306Z",
+              "WhenOpened": "2024-08-27T19:47:16.086Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
+              "Title": "homeController.cs",
+              "DocumentMoniker": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\Controllers\\homeController.cs",
+              "RelativeDocumentMoniker": "WebApplication6\\Controllers\\homeController.cs",
+              "ToolTip": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\Controllers\\homeController.cs",
+              "RelativeToolTip": "WebApplication6\\Controllers\\homeController.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAAAEwAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T08:26:49.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "bookmark.cshtml",
+              "DocumentMoniker": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\Views\\home\\bookmark.cshtml",
+              "RelativeDocumentMoniker": "WebApplication6\\Views\\home\\bookmark.cshtml",
+              "ToolTip": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\Views\\home\\bookmark.cshtml",
+              "RelativeToolTip": "WebApplication6\\Views\\home\\bookmark.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-31T06:15:40.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "fiction.cshtml",
+              "DocumentMoniker": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\Views\\home\\fiction.cshtml",
+              "RelativeDocumentMoniker": "WebApplication6\\Views\\home\\fiction.cshtml",
+              "ToolTip": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\Views\\home\\fiction.cshtml",
+              "RelativeToolTip": "WebApplication6\\Views\\home\\fiction.cshtml",
+              "ViewState": "AQIAADwAAAAAAAAAAAAuwFUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-31T06:15:51.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "dbo.Books [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/QueensDB/True/SqlTable/dbo.Books.sql",
+              "ToolTip": "dbo.Books [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-06-01T19:47:37.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BookmarksController.cs",
+              "DocumentMoniker": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\Controllers\\BookmarksController.cs",
+              "RelativeDocumentMoniker": "WebApplication6\\Controllers\\BookmarksController.cs",
+              "ToolTip": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\Controllers\\BookmarksController.cs",
+              "RelativeToolTip": "WebApplication6\\Controllers\\BookmarksController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAB6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T17:20:56.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "style.css",
               "DocumentMoniker": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\style\\style.css",
               "RelativeDocumentMoniker": "WebApplication6\\wwwroot\\style\\style.css",
@@ -467,45 +575,43 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "BookmarksController.cs",
-              "DocumentMoniker": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\Controllers\\BookmarksController.cs",
-              "RelativeDocumentMoniker": "WebApplication6\\Controllers\\BookmarksController.cs",
-              "ToolTip": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\Controllers\\BookmarksController.cs",
-              "RelativeToolTip": "WebApplication6\\Controllers\\BookmarksController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAB6AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-29T17:20:56.366Z",
-              "EditorCaption": ""
+              "DocumentIndex": 14,
+              "Title": "ClientNotification.js",
+              "DocumentMoniker": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\js\\ClientNotification.js",
+              "RelativeDocumentMoniker": "WebApplication6\\wwwroot\\js\\ClientNotification.js",
+              "ToolTip": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\js\\ClientNotification.js",
+              "RelativeToolTip": "WebApplication6\\wwwroot\\js\\ClientNotification.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-08-16T17:07:40.306Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "booksController.cs",
-              "DocumentMoniker": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\Controllers\\booksController.cs",
-              "RelativeDocumentMoniker": "WebApplication6\\Controllers\\booksController.cs",
-              "ToolTip": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\Controllers\\booksController.cs",
-              "RelativeToolTip": "WebApplication6\\Controllers\\booksController.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T13:49:49.134Z",
-              "EditorCaption": ""
+              "DocumentIndex": 16,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "WebApplication6\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "WebApplication6\\wwwroot\\js\\site.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-07-15T11:55:42.247Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\Program.cs",
-              "RelativeDocumentMoniker": "WebApplication6\\Program.cs",
-              "ToolTip": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\Program.cs",
-              "RelativeToolTip": "WebApplication6\\Program.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABsAAAAtAAAA",
+              "DocumentIndex": 13,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "WebApplication6\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "WebApplication6\\Controllers\\AdminController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-31T06:13:08.314Z"
+              "WhenOpened": "2024-06-30T14:30:35.333Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 17,
               "Title": "NotificationHub.cs",
               "DocumentMoniker": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\Hubs\\NotificationHub.cs",
               "RelativeDocumentMoniker": "WebApplication6\\Hubs\\NotificationHub.cs",
@@ -517,19 +623,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\Views\\home\\index.cshtml",
-              "RelativeDocumentMoniker": "WebApplication6\\Views\\home\\index.cshtml",
-              "ToolTip": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\Views\\home\\index.cshtml",
-              "RelativeToolTip": "WebApplication6\\Views\\home\\index.cshtml",
-              "ViewState": "AQIAADYAAAAAAAAAAAAAAKMBAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-15T12:58:50.407Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 18,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "WebApplication6\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
@@ -541,7 +635,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 19,
               "Title": "_ValidationScriptsPartial.cshtml",
               "DocumentMoniker": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
               "RelativeDocumentMoniker": "WebApplication6\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
@@ -553,7 +647,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 21,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\Views\\Books\\Edit.cshtml",
               "RelativeDocumentMoniker": "WebApplication6\\Views\\Books\\Edit.cshtml",
@@ -565,7 +659,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 20,
               "Title": "UploadImage.cshtml",
               "DocumentMoniker": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\Views\\home\\UploadImage.cshtml",
               "RelativeDocumentMoniker": "WebApplication6\\Views\\home\\UploadImage.cshtml",
@@ -577,19 +671,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "GenericRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\Infrastructure\\GenericRepository.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\GenericRepository.cs",
-              "ToolTip": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\Infrastructure\\GenericRepository.cs",
-              "RelativeToolTip": "Infrastructure\\GenericRepository.cs",
-              "ViewState": "AQIAACoAAAAAAAAAAAAAAD0AAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-12T08:07:20.609Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 22,
               "Title": "GenericService.cs",
               "DocumentMoniker": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\Application\\Services\\GenericService.cs",
               "RelativeDocumentMoniker": "Application\\Services\\GenericService.cs",
@@ -601,7 +683,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 23,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\Views\\booksleeves\\Index.cshtml",
               "RelativeDocumentMoniker": "WebApplication6\\Views\\booksleeves\\Index.cshtml",
@@ -613,7 +695,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 24,
               "Title": "AddBookmark.cshtml",
               "DocumentMoniker": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\Views\\Bookmarks\\AddBookmark.cshtml",
               "RelativeDocumentMoniker": "WebApplication6\\Views\\Bookmarks\\AddBookmark.cshtml",
@@ -625,7 +707,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 26,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\Views\\Books\\Index.cshtml",
               "RelativeDocumentMoniker": "WebApplication6\\Views\\Books\\Index.cshtml",
@@ -637,7 +719,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 27,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\Views\\Books\\Delete.cshtml",
               "RelativeDocumentMoniker": "WebApplication6\\Views\\Books\\Delete.cshtml",
@@ -649,7 +731,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 25,
               "Title": "Add.cshtml",
               "DocumentMoniker": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\Views\\Books\\Add.cshtml",
               "RelativeDocumentMoniker": "WebApplication6\\Views\\Books\\Add.cshtml",
@@ -661,7 +743,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 28,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\Views\\Bookmarks\\Delete.cshtml",
               "RelativeDocumentMoniker": "WebApplication6\\Views\\Bookmarks\\Delete.cshtml",
@@ -673,19 +755,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "homeController.cs",
-              "DocumentMoniker": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\Controllers\\homeController.cs",
-              "RelativeDocumentMoniker": "WebApplication6\\Controllers\\homeController.cs",
-              "ToolTip": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\Controllers\\homeController.cs",
-              "RelativeToolTip": "WebApplication6\\Controllers\\homeController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA8AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-05T08:26:49.176Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 29,
               "Title": "IRepository.cs",
               "DocumentMoniker": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\Domain\\Interfaces\\IRepository.cs",
               "RelativeDocumentMoniker": "Domain\\Interfaces\\IRepository.cs",
@@ -697,19 +767,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "fiction.cshtml",
-              "DocumentMoniker": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\Views\\home\\fiction.cshtml",
-              "RelativeDocumentMoniker": "WebApplication6\\Views\\home\\fiction.cshtml",
-              "ToolTip": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\Views\\home\\fiction.cshtml",
-              "RelativeToolTip": "WebApplication6\\Views\\home\\fiction.cshtml",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABoAAAAhAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-31T06:15:51.178Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 30,
               "Title": "selfhelp.cshtml",
               "DocumentMoniker": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\Views\\home\\selfhelp.cshtml",
               "RelativeDocumentMoniker": "WebApplication6\\Views\\home\\selfhelp.cshtml",
@@ -721,19 +779,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "nonfiction.cshtml",
-              "DocumentMoniker": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\Views\\home\\nonfiction.cshtml",
-              "RelativeDocumentMoniker": "WebApplication6\\Views\\home\\nonfiction.cshtml",
-              "ToolTip": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\Views\\home\\nonfiction.cshtml",
-              "RelativeToolTip": "WebApplication6\\Views\\home\\nonfiction.cshtml",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAAA8AAAAnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-18T12:00:39.21Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 31,
               "Title": "BooksRepositoryDecorator.cs",
               "DocumentMoniker": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\Infrastructure\\BooksRepositoryDecorator.cs",
               "RelativeDocumentMoniker": "Infrastructure\\BooksRepositoryDecorator.cs",
@@ -745,7 +791,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 32,
               "Title": "_Layout1.cshtml",
               "DocumentMoniker": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\Views\\Shared\\_Layout1.cshtml",
               "RelativeDocumentMoniker": "WebApplication6\\Views\\Shared\\_Layout1.cshtml",
@@ -757,7 +803,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 33,
               "Title": "Search.cshtml",
               "DocumentMoniker": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\Views\\home\\Search.cshtml",
               "RelativeDocumentMoniker": "WebApplication6\\Views\\home\\Search.cshtml",
@@ -769,7 +815,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 34,
               "Title": "CartController.cs",
               "DocumentMoniker": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\Controllers\\CartController.cs",
               "RelativeDocumentMoniker": "WebApplication6\\Controllers\\CartController.cs",
@@ -781,7 +827,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 35,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\Infrastructure\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "Infrastructure\\ApplicationDbContext.cs",
@@ -793,7 +839,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 36,
               "Title": "_LoginPartial.cshtml",
               "DocumentMoniker": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\Views\\Shared\\_LoginPartial.cshtml",
               "RelativeDocumentMoniker": "WebApplication6\\Views\\Shared\\_LoginPartial.cshtml",
@@ -805,7 +851,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 37,
               "Title": "_PartialView.cshtml",
               "DocumentMoniker": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\Views\\home\\_PartialView.cshtml",
               "RelativeDocumentMoniker": "WebApplication6\\Views\\home\\_PartialView.cshtml",
@@ -817,7 +863,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 38,
               "Title": "Login.cshtml",
               "DocumentMoniker": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
               "RelativeDocumentMoniker": "WebApplication6\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
@@ -829,7 +875,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 39,
               "Title": "fic.jpg",
               "DocumentMoniker": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\images\\fic.jpg",
               "RelativeDocumentMoniker": "WebApplication6\\wwwroot\\images\\fic.jpg",
@@ -840,7 +886,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 40,
               "Title": "ViewCart.cshtml",
               "DocumentMoniker": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\Views\\Cart\\ViewCart.cshtml",
               "RelativeDocumentMoniker": "WebApplication6\\Views\\Cart\\ViewCart.cshtml",
@@ -852,7 +898,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 41,
               "Title": "signalr.js",
               "DocumentMoniker": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\lib\\signalr\\dist\\browser\\signalr.js",
               "RelativeDocumentMoniker": "WebApplication6\\wwwroot\\lib\\signalr\\dist\\browser\\signalr.js",
@@ -864,7 +910,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 42,
               "Title": "bundleconfig.json",
               "DocumentMoniker": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\bundleconfig.json",
               "RelativeDocumentMoniker": "WebApplication6\\bundleconfig.json",
@@ -876,7 +922,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 44,
               "Title": "booksleeve.cshtml",
               "DocumentMoniker": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\Views\\home\\booksleeve.cshtml",
               "RelativeDocumentMoniker": "WebApplication6\\Views\\home\\booksleeve.cshtml",
@@ -888,7 +934,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 45,
               "Title": "IBooksRepositoryDecorator.cs",
               "DocumentMoniker": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\Domain\\Interfaces\\IBooksRepositoryDecorator.cs",
               "RelativeDocumentMoniker": "Domain\\Interfaces\\IBooksRepositoryDecorator.cs",
@@ -900,7 +946,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 43,
               "Title": "libman.json",
               "DocumentMoniker": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\libman.json",
               "RelativeDocumentMoniker": "WebApplication6\\libman.json",
@@ -912,7 +958,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 46,
               "Title": "booksleevesController.cs",
               "DocumentMoniker": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\Controllers\\booksleevesController.cs",
               "RelativeDocumentMoniker": "WebApplication6\\Controllers\\booksleevesController.cs",
@@ -924,7 +970,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 47,
               "Title": "LoginController.cs",
               "DocumentMoniker": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\Controllers\\LoginController.cs",
               "RelativeDocumentMoniker": "WebApplication6\\Controllers\\LoginController.cs",
@@ -936,7 +982,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 48,
               "Title": "Books.cs",
               "DocumentMoniker": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\Domain\\Models\\Books.cs",
               "RelativeDocumentMoniker": "Domain\\Models\\Books.cs",
@@ -948,7 +994,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
+              "DocumentIndex": 54,
               "Title": "ErrorViewModel.cs",
               "DocumentMoniker": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\Domain\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "Domain\\Models\\ErrorViewModel.cs",
@@ -960,7 +1006,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 53,
               "Title": "NotAllowedAttributes.cs",
               "DocumentMoniker": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\Domain\\Models\\NotAllowedAttributes.cs",
               "RelativeDocumentMoniker": "Domain\\Models\\NotAllowedAttributes.cs",
@@ -972,7 +1018,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 51,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\Domain\\Models\\User.cs",
               "RelativeDocumentMoniker": "Domain\\Models\\User.cs",
@@ -984,7 +1030,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 52,
               "Title": "UserProfile.cs",
               "DocumentMoniker": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\Domain\\Models\\UserProfile.cs",
               "RelativeDocumentMoniker": "Domain\\Models\\UserProfile.cs",
@@ -996,7 +1042,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 50,
               "Title": "IUserSevice.cs",
               "DocumentMoniker": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\Infrastructure\\IUserSevice.cs",
               "RelativeDocumentMoniker": "Infrastructure\\IUserSevice.cs",
@@ -1008,7 +1054,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 49,
               "Title": "UserService.cs",
               "DocumentMoniker": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\Infrastructure\\UserService.cs",
               "RelativeDocumentMoniker": "Infrastructure\\UserService.cs",
@@ -1020,7 +1066,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 63,
+              "DocumentIndex": 64,
               "Title": "Notification.cs",
               "DocumentMoniker": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\Models\\Notification.cs",
               "RelativeDocumentMoniker": "WebApplication6\\Models\\Notification.cs",
@@ -1032,7 +1078,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 66,
+              "DocumentIndex": 67,
               "Title": "_ValidationScriptsPartial.cshtml",
               "DocumentMoniker": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
               "RelativeDocumentMoniker": "WebApplication6\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
@@ -1044,7 +1090,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 65,
+              "DocumentIndex": 66,
               "Title": "bootstrap.js",
               "DocumentMoniker": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\js\\bootstrap.js",
               "RelativeDocumentMoniker": "WebApplication6\\wwwroot\\js\\bootstrap.js",
@@ -1056,7 +1102,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 64,
+              "DocumentIndex": 65,
               "Title": "bookproduct.cs",
               "DocumentMoniker": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\Models\\ViewModels\\bookproduct.cs",
               "RelativeDocumentMoniker": "WebApplication6\\Models\\ViewModels\\bookproduct.cs",
@@ -1068,7 +1114,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 52,
+              "DocumentIndex": 55,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\Domain\\Models\\Category.cs",
               "RelativeDocumentMoniker": "Domain\\Models\\Category.cs",
@@ -1080,7 +1126,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 53,
+              "DocumentIndex": 56,
               "Title": "CartItem.cs",
               "DocumentMoniker": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\Domain\\Models\\CartItem.cs",
               "RelativeDocumentMoniker": "Domain\\Models\\CartItem.cs",
@@ -1092,7 +1138,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 54,
+              "DocumentIndex": 57,
               "Title": "Booksleeves.cs",
               "DocumentMoniker": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\Domain\\Models\\Booksleeves.cs",
               "RelativeDocumentMoniker": "Domain\\Models\\Booksleeves.cs",
@@ -1104,7 +1150,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 55,
+              "DocumentIndex": 58,
               "Title": "Bookmarks.cs",
               "DocumentMoniker": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\Domain\\Models\\Bookmarks.cs",
               "RelativeDocumentMoniker": "Domain\\Models\\Bookmarks.cs",
@@ -1113,18 +1159,6 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-12T06:27:34.601Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 60,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\Views\\Bookmarks\\Index.cshtml",
-              "RelativeDocumentMoniker": "WebApplication6\\Views\\Bookmarks\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\Views\\Bookmarks\\Index.cshtml",
-              "RelativeToolTip": "WebApplication6\\Views\\Bookmarks\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAtAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-12T06:14:35.146Z"
             },
             {
               "$type": "Document",
@@ -1152,7 +1186,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 71,
+              "DocumentIndex": 72,
               "Title": "Register.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
               "RelativeDocumentMoniker": "WebApplication6\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
@@ -1164,7 +1198,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 56,
+              "DocumentIndex": 59,
               "Title": "Register.cshtml",
               "DocumentMoniker": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
               "RelativeDocumentMoniker": "WebApplication6\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
@@ -1176,7 +1210,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 70,
+              "DocumentIndex": 71,
               "Title": "NotAllowedAttributes.cs",
               "DocumentMoniker": "C:\\Users\\Alsa Munir\\source\\repos\\WebApplication6\\WebApplication6\\Models\\NotAllowedAttributes.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\WebApplication6\\WebApplication6\\Models\\NotAllowedAttributes.cs",
@@ -1187,19 +1221,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 72,
-              "Title": "bookmark.cshtml",
-              "DocumentMoniker": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\Views\\home\\bookmark.cshtml",
-              "RelativeDocumentMoniker": "WebApplication6\\Views\\home\\bookmark.cshtml",
-              "ToolTip": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\Views\\home\\bookmark.cshtml",
-              "RelativeToolTip": "WebApplication6\\Views\\home\\bookmark.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAABIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-31T06:15:40.365Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 59,
+              "DocumentIndex": 61,
               "Title": "AddBooksleeves.cshtml",
               "DocumentMoniker": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\Views\\booksleeves\\AddBooksleeves.cshtml",
               "RelativeDocumentMoniker": "WebApplication6\\Views\\booksleeves\\AddBooksleeves.cshtml",
@@ -1259,7 +1281,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 67,
+              "DocumentIndex": 68,
               "Title": "_ShoppingCart.cshtml",
               "DocumentMoniker": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\Views\\Shared\\_ShoppingCart.cshtml",
               "RelativeDocumentMoniker": "WebApplication6\\Views\\Shared\\_ShoppingCart.cshtml",
@@ -1307,7 +1329,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 68,
+              "DocumentIndex": 69,
               "Title": "bookproduct.cshtml",
               "DocumentMoniker": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\Views\\home\\bookproduct.cshtml",
               "RelativeDocumentMoniker": "WebApplication6\\Views\\home\\bookproduct.cshtml",
@@ -1355,7 +1377,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 62,
+              "DocumentIndex": 63,
               "Title": "AdminPanel.cshtml",
               "DocumentMoniker": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\Views\\Admin\\AdminPanel.cshtml",
               "RelativeDocumentMoniker": "WebApplication6\\Views\\Admin\\AdminPanel.cshtml",
@@ -1367,7 +1389,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 61,
+              "DocumentIndex": 62,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\Views\\Bookmarks\\Edit.cshtml",
               "RelativeDocumentMoniker": "WebApplication6\\Views\\Bookmarks\\Edit.cshtml",
@@ -1379,7 +1401,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 57,
+              "DocumentIndex": 60,
               "Title": "AddToCart.cshtml",
               "DocumentMoniker": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\Views\\Cart\\AddToCart.cshtml",
               "RelativeDocumentMoniker": "WebApplication6\\Views\\Cart\\AddToCart.cshtml",
@@ -1391,7 +1413,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 69,
+              "DocumentIndex": 70,
               "Title": "SearchViewModel.cs",
               "DocumentMoniker": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\Models\\ViewModels\\SearchViewModel.cs",
               "RelativeDocumentMoniker": "WebApplication6\\Models\\ViewModels\\SearchViewModel.cs",
@@ -1400,18 +1422,6 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-05T08:42:33.327Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 58,
-              "Title": "Checkout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\Views\\Cart\\Checkout.cshtml",
-              "RelativeDocumentMoniker": "WebApplication6\\Views\\Cart\\Checkout.cshtml",
-              "ToolTip": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\Views\\Cart\\Checkout.cshtml",
-              "RelativeToolTip": "WebApplication6\\Views\\Cart\\Checkout.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAACAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-04T16:41:21.972Z"
             },
             {
               "$type": "Document",
@@ -1604,15 +1614,6 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-05-08T07:51:55.566Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "dbo.Books [Data]",
-              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/QueensDB/True/SqlTable/dbo.Books.sql",
-              "ToolTip": "dbo.Books [Data]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2024-06-01T19:47:37.896Z"
             },
             {
               "$type": "Document",

@@ -600,3 +600,4 @@ C:\Users\Alsa Munir\OneDrive\Desktop\WebApplication6\WebApplication6\obj\Debug\n
 C:\Users\Alsa Munir\OneDrive\Desktop\WebApplication6\WebApplication6\obj\Debug\net8.0\WebApplication6.pdb
 C:\Users\Alsa Munir\OneDrive\Desktop\WebApplication6\WebApplication6\obj\Debug\net8.0\WebApplication6.genruntimeconfig.cache
 C:\Users\Alsa Munir\OneDrive\Desktop\WebApplication6\WebApplication6\obj\Debug\net8.0\ref\WebApplication6.dll
+C:\Users\Alsa Munir\OneDrive\Desktop\WebApplication6\WebApplication6\obj\Debug\net8.0\WebApplication6.sourcelink.json

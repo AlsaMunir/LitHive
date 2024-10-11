@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "yySvCGq2VSZiQIRbdZOfxbmXSv7ZrRV5tjfrx0809go=",
+  "Hash": "ZZeY9DaZnQebUW9PCRJQiBFpPXJHbBZSH3fYgi71oMQ=",
   "Source": "WebApplication6",
   "BasePath": "_content/WebApplication6",
   "Mode": "Default",
@@ -5316,6 +5316,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\UploadedFiles\\Books\\mebeforeyou.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\UploadedFiles\\Books\\mohsinback.png",
+      "SourceId": "WebApplication6",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\",
+      "BasePath": "_content/WebApplication6",
+      "RelativePath": "UploadedFiles/Books/mohsinback.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\UploadedFiles\\Books\\mohsinback.png"
     },
     {
       "Identity": "C:\\Users\\Alsa Munir\\OneDrive\\Desktop\\WebApplication6\\WebApplication6\\wwwroot\\UploadedFiles\\Books\\myth.jpg",
